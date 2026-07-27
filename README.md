@@ -1,17 +1,19 @@
-# Quartz v5
+# Cerulean Dreams
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+The player-facing wiki for the Cerulean Dreams campaign. Live at:
+https://kraftykraft.github.io/cerulean-dreams/
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Editing
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Everything at the root of this repo (except `.github/`, `Dockerfile`, and
+this README) is content — click the pencil icon on any file on GitHub to
+edit it, or add new `.md` files directly. Every push to `main` rebuilds
+and republishes the site automatically.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## How this is built
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+This repo holds only content and a couple of small build files — the
+[Quartz](https://quartz.jzhao.xyz/) site generator itself is never checked
+in here. `.github/workflows/deploy.yaml` builds the `Dockerfile` on every
+push to `main`, which clones Quartz fresh, drops this repo's content into
+it, and publishes the result to GitHub Pages.
