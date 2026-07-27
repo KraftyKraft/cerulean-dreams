@@ -16,8 +16,14 @@ RUN npx quartz plugin install
 # Quartz reads quartz.config.yaml in preference to its own bundled default,
 # so patch just the fields we care about onto a copy of that default rather
 # than hand-maintaining a full duplicate of Quartz's plugin/layout config.
-COPY apply-config-overrides.mjs .
-RUN node apply-config-overrides.mjs
+RUN node -e "\
+const fs = require('fs'); \
+const YAML = require('yaml'); \
+const cfg = YAML.parse(fs.readFileSync('quartz.config.default.yaml', 'utf8')); \
+cfg.configuration.pageTitle = 'Cerulean Dreams'; \
+cfg.configuration.baseUrl = 'kraftykraft.github.io/cerulean-dreams'; \
+fs.writeFileSync('quartz.config.yaml', YAML.stringify(cfg)); \
+"
 
 COPY . /content
 
