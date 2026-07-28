@@ -2,8 +2,41 @@
 public/
 
 # Obsidian, if you open this folder as a vault
-.obsidian/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/hotkeys.json
+.trash/
 
 # OS cruft
 .DS_Store
 Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Editor cruft
+.vscode/
+.idea/
+*.bak
+*~
+
+# Secrets
+.env
+.env.*
+
+# Claude Code — personal/machine-local files only. Skills, agents,
+# and commands under .claude/ are meant to be committed and shared,
+# so don't ignore the whole folder.
+.claude/settings.local.json
+.claude/launch.json
+.claude/scheduled_tasks.lock
+.claude/scheduled_tasks.json
+.claude/routines/.state/
+.claude/worktrees/
+.claude/checkpoints/
+.claude/mailbox/
+.claude/agent-registry.json
+.claude/agent-memory-local/
+.claude/first-run
+.claude/assistant-daemon-state.json
