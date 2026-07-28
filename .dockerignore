@@ -5,3 +5,9 @@ Dockerfile
 .dockerignore
 README.md
 public
+
+# Local tooling — not site content. .claude/ especially must stay out:
+# skills are written as Markdown, and Quartz would otherwise discover
+# and publish them as real pages.
+.claude
+.obsidian
