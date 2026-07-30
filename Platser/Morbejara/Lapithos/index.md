@@ -1,5 +1,9 @@
 ---
 title: Lapithos
+tags:
+    - plats
+    - plats/distrikt
+    - stad/morbejara
 ---
 
 Skrån, verkstäder och akademiska institutioner sida vid sida.
