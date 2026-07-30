@@ -1,5 +1,8 @@
 ---
 title: Morbejara
+tags:
+  - plats
+  - plats/stad
 ---
 
 Stad i handelsunionen Thyrenia — en samling stadsstater som tillsammans
@@ -19,7 +22,7 @@ Förhållandet till grannstadsstaten Santavarre är spänt.
 
 ## Distrikt
 
-Morbejara är uppdelat i fyra huvuddistrikt:
+Morbejara är uppdelat i fem huvuddistrikt:
 
 - **[[Gamlebrygga]]** — de gamla, förfallna bryggorna. Dimman ligger
   tätast här, och folk håller sig inomhus efter mörkrets inbrott.
@@ -29,3 +32,6 @@ Morbejara är uppdelat i fyra huvuddistrikt:
   Stadens officiella ansikte utåt.
 - **[[Lapithos]]** — skrån, verkstäder och akademiska institutioner. Ett
   kvarter för den bildade klassen.
+- **[[Basileia]]** — det forna kejsardistriktet. Kammarrådet håller till
+  i det forna kejserliga palatset. Här finner man de mäktigaste handelshusens
+  herrgårdar liksom utländska ambassader.
