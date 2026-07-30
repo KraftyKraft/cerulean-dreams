@@ -2,8 +2,8 @@
 title: Gamlebrygga
 tags:
     - plats
-    - plats/distrikt
-    - stad/morbejara
+    - distrikt
+    - morbejara
 ---
 
 De gamla bryggorna knarrar under fötterna. Ruttet trä, salt och gammal

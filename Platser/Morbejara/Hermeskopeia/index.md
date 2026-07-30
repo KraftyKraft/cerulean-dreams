@@ -2,8 +2,8 @@
 title: Hermeskopeia
 tags:
     - plats
-    - plats/distrikt
-    - stad/morbejara
+    - distrikt
+    - morbejara
 ---
 
 En lång gata av profeter och präster som tävlar om folkets gunst och
