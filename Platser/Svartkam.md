@@ -1,5 +1,9 @@
 ---
 title: Svartkam
+tags:
+  - plats
+  - naturplats
+  - Skuggornas rike
 ---
 
 ![[svartkam_torn.jpg]]
