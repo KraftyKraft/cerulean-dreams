@@ -1,5 +1,5 @@
 ---
-title: Kol Dorenden
+title: Kol Dorenëdem
 tags:
   - spelarkaraktär
   - civilised
