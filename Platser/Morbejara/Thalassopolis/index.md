@@ -1,12 +1,25 @@
 ---
 title: Thalassopolis
+tags:
+  - plats
+  - distrikt
+  - morbejara
 ---
 
-Den murade hamnen med representativa kajer och landgångar. Handelshusens
-kontor och mottagningar. Det officiella ansiktet utåt — välklädda
-människor som blir nervösa på ett annat sätt än de fattiga när något
-går fel.
+## Beskrivning
 
-**Invånare:** Handelshus och deras representanter.
+Thalassopolis är stadens officiella handelsansikte utåt. Denna hamn är mycket nyare och snyggare än Gamlebrygga.
 
-Nyare och finare än Gamlebrygga. Stadens officiella handelsansikte.
+Den har en murad hamn, med prydliga kajer och landgångar.
+Handelshusens kontor och mottagningar ligger tätt. 
+
+Här går välklädda människor och stiliga hamnarbetare.
+
+## Invånare
+
+De som spatserar på gatorna här är välklädda friherrar och damer. Hamnarbetarna är stiliga och professionella.
+
+Här har också alla handelshus snitsiga kontor och välartade representanter.
+
+**Handelshuset Ruma Trabiri** flyttade sitt högkvarter hit från Gamlebrygga i takt med att Danifa
+Trabiri blev rikare.

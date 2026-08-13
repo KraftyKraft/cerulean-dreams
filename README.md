@@ -5,10 +5,18 @@ https://kraftykraft.github.io/cerulean-dreams/
 
 ## Editing
 
-Everything at the root of this repo (except `.github/`, `Dockerfile`, and
-this README) is content — click the pencil icon on any file on GitHub to
-edit it, or add new `.md` files directly. Every push to `main` rebuilds
-and republishes the site automatically.
+Everything in this repo is content, except what's listed in
+`.dockerignore` (build/config files, plus template files — see below).
+Click the pencil icon on any file on GitHub to edit it, or add new
+`.md` files directly. Every push to `main` rebuilds and republishes
+the site automatically.
+
+### Templates
+
+Some folders (e.g. `Spelarkaraktärer/`) have a `Mall.md` file — copy
+it as a starting point for a new page in that category, so pages in
+the same category stay consistent. Templates are committed to the
+repo for contributors to use, but excluded from the published site.
 
 ## How this is built
 

@@ -1,15 +1,22 @@
 ---
 title: Veridia
+tags:
+  - npc
+  - morbejara
 ---
 
-**Lapithos, "I pärlans sköte"**
+## Kännetecken
 
-Gyllenhårig, grönögd, fräknig. Från [[Valdmark]]. Bär ofta en grön
-aftondress.
+Gyllenhårig, grönögd, fräknig. Bär ofta en grön aftondress. (Namnet betyder "grön" på latin.)
 
-Uppvuxen i en köpmansfamilj i Valdmark, där hon tidigt visade sig vara
-ett underbarn. Studerar och undervisar numera vid universitetet i
-Morbejara, inom handel kring det ceruliska havet och internationella
-relationer.
+## Drivkraft
 
-Väljer sina sällskap noggrant och på sina egna villkor.
+En av hennes drivkrafter är naturligtvis en enorm kunskapstörst, men det finns också något annat som driver henne, som inte är omedelbart uppenbart.
+
+## Bakgrund
+
+Uppvuxen i en köpmansfamilj i [[Valdmark]], där hon tidigt visade sig vara ett underbarn. Studerar och undervisar numera vid universitetet i Morbejara, inom handel kring det ceruliska havet och internationella relationer.
+
+## Plats
+
+Sitter ofta på baren på "I pärlans sköte" i [[Lapithos]].

@@ -1,33 +1,71 @@
 ---
 title: Cetea
+tags:
+  - spelarkaraktär
+  - decadent
 ---
 
-Decadent. Atlantisk prinsessa — vacker, ung, rikt klädd. Kaotisk
-läggning. Född i ruinerna av ett kristallpalats.
+| Attribut | Värde |
+| --- | --- |
+| Str | 12 |
+| Dex | 8 |
+| Con | 11 |
+| Int | 12 |
+| Wis | 10 |
+| Cha | 11 |
 
-**Backgrounds:** Bookworm, Forbidden Knowledge, Warlock
+| Stat | Värde |
+| --- | --- |
+| Level | 1 |
+| Alignment | Chaos |
+| Doom die | 1d6 |
+| DMG | 1d6 |
+| Unarmed | 1d4 |
+| HP | 11 |
 
-## Demons
+## Origin och historia
 
-**Marduk**, hertig av avgrunden (Abyss) — The target becomes
-monstrous, misshapen, or disfigured; an object of fear and disgust
-for the next d6 hours. On a roll of 1 the effect is permanent.
+Decadent. Atlantisk prinsessa, född i ruinerna av ett kristallpalats.
+Hennes häxcirkel dyrkade The Ancients och sökte deras förlorade
+kunskap. Cetea slöt en pakt med demonerna, men stal deras kristallorb
+och flydde.
 
-**Nabrusha**, rädslornas mästarinna (Fear) — You learn your target's
-deepest fear. On a roll of 1, they learn your deepest fear as well.
+## Utseende & personlighet
 
-## Spells
+Vacker och rikt klädd, med ett kaotiskt temperament.
 
-**Guiding Rat** — When underground, summon a rat that guides you to
-the nearest exit. It must be fed d4 hit points worth of blood to do
-so.
+## Bakgrunder
 
-**Gloomy Lullaby** — Your target loses consciousness. A result of 1
-on the spellcasting roll means the target will not wake up.
+Bookworm, Forbidden Knowledge, Warlock.
 
-**Feeding the Fire** — Make an existing flame burst by feeding it
-with your anger. Inflicts d6 damage to all Nearby targets.
+## Demoner
 
-**Red Trap** — Make a small pool of your own blood (losing 2 HP until
-the spell is cancelled). Anyone stepping in the pool cannot move
-further.
+**Marduk**, hertig av avgrunden *(Abyss)*. Målet förvandlas till något
+monstruöst och vanställt, ett objekt för skräck och avsky i d6 timmar.
+På en etta blir effekten permanent.
+
+**Nabrusha**, rädslornas mästarinna *(Fear)*. Avslöjar målets djupaste
+rädsla. På en etta avslöjas även Ceteas djupaste rädsla för målet.
+
+## Besvärjelser
+
+**Guiding Rat**. Framkallar en råtta under jord som leder till
+närmaste utgång. Kostar d4 HP i blod som mat.
+
+**Gloomy Lullaby**. Målet förlorar medvetandet. På en etta vaknar det
+aldrig upp.
+
+**Feeding the Fire**. Får en befintlig låga att explodera. 1d6 skada
+på alla måltavlor i närheten.
+
+**Red Trap**. Bildar en liten pool av Ceteas blod (kostar 2 HP, varar
+tills besvärjelsen bryts). Den som kliver i poolen kan inte röra sig.
+
+## Utrustning
+
+Serated sword, shiv
+Leather armor (+1)
+
+Paper, ink, quill, lightning tools, candles (black), crystal orb.
+
+## Relationer

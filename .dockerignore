@@ -11,3 +11,7 @@ public
 # and publish them as real pages.
 .claude
 .obsidian
+
+# Authoring templates — kept in the repo for contributors to copy from,
+# but not meant to be a published page themselves.
+**/Mall.md
