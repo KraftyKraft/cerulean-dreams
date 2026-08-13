@@ -31,7 +31,7 @@ Troende inom orden använder ofta ett återkommande mantra som hälsning eller a
 
 ## Karaktärer
 
-Efter den tidigare delegationsledaren **Riddar Adrics** fall i Sarissos estat leds delegationen i Morbejara av Marskalk **[[Karaktärer/Roland-Corveaux]]**.
+Efter den tidigare delegationsledaren **Riddar Adrics** fall i Sarissos estat leds delegationen i Morbejara av Marskalk **[[Karaktärer/Roland-Corveaux|Roland]]**.
 
 Efter den tidigare överprästinnan **Syster Beatrice** fall i Sarissos estat har delegationen inte tillsatt någon permanent ersättare.
 

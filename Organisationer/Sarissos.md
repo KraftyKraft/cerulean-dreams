@@ -20,7 +20,7 @@ Husets tecken är en orm ringlad kring ett pergament. Deras officiella sändebud
 
 ## Karaktärer
 
-Huset leds sedan länge av matriarken **[[Karaktärer/Samira-Sarissos]]**.
+Huset leds sedan länge av matriarken **[[Karaktärer/Samira-Sarissos|Samira]]**.
 
 ## Plats
 
