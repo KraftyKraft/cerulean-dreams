@@ -20,15 +20,15 @@ Husets tecken är en orm ringlad kring ett pergament. Deras officiella sändebud
 
 ## Karaktärer
 
-Huset leds sedan länge av matriarken **[[Karaktärer/Samira Sarissos]]**.
+Huset leds sedan länge av matriarken **[[Karaktärer/Samira%20Sarissos]]**.
 
 ## Plats
 
-Deras residens ligger nära stadsporten i **[[Basileia]]**: ett stort, vitt trevåningshus omgivet av en medelhög stenmur och vanligtvis endast sparsamt bevakat. Rykten gör dock gällande att husets verkliga maktcentrum finns i katakomberna under byggnaden, där Sarissos sägs förvara sina hemligheter och rikedomar i svårtillgängliga valv.
+Sarissos residens ligger nära stadsporten i **[[Platser/Morbejara/Basileia]]**: ett stort, vitt trevåningshus omgivet av en medelhög stenmur och vanligtvis endast sparsamt bevakat. Rykten gör dock gällande att husets verkliga maktcentrum finns i katakomberna under byggnaden, där Sarissos sägs förvara sina hemligheter och rikedomar i svårtillgängliga valv.
 
 ## Interaktioner
 
-Representanter för Hus Sarissos är vanligtvis artiga, positiva och tillmötesgående, men samtidigt påtagligt distanserade. De kan vara värdefulla bundsförvanter för spelarna i äventyr som kretsar kring stadens olika faktioner, men lika gärna leda dem in i farliga eller ogynnsamma situationer genom halvsanningar och medvetet vilseledande information. Husets verkliga mål är sällan uppenbara, och dess planer tenderar att vara både långsiktiga och svåra att genomskåda.
+Representanter för Hus Sarissos är vanligtvis artiga, positiva och tillmötesgående, men samtidigt påtagligt distanserade. De kan vara värdefulla bundsförvanter för spelarna i äventyr som kretsar kring stadens olika faktioner, men lika gärna leda dem in i farliga eller ogynnsamma situationer genom halvsanningar och medvetet vilseledande information. Husets verkliga mål är sällan uppenbara, och dess planer tenderar att vara både långsiktiga och svåra att genomskåda. Hus Sarissos vidtar sällan direkta åtgärder i konflikter.
 
 ## Hemligheter
 
