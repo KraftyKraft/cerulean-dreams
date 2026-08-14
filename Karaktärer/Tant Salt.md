@@ -23,6 +23,6 @@ Tant Salt är en av de äldsta institutionerna i Gamlebrygga. Det finns många m
 
 Tant Salt bereder sina häxkonster från sitt ominredda fiskeskjul i Gamlebrygga.
 
-Emellanåt säljer hon amuletter, drycker och annat vid Thalassopolis.
+Emellanåt säljer hon amuletter, drycker och annat vid [[Platser/Morbejara/Hermeskopeia]].
 
 Ofta godtar hon alternativa betalningar om köparen saknar guld, en hårlock, en tjänst eller till och med ett finger kan vara godtagbart...
