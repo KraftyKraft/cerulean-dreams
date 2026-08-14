@@ -79,5 +79,5 @@ Rusted harpoon, razor whip, satyrflöjt, noble clothes.
 
 ## Relationer
 
-[[Tant Salt]]. Valrina bodde hos henne i hamnen innan hon
+**[[Karaktärer/Tant-Salt|Tant Salt]]**. Valrina bodde hos henne i hamnen innan hon
 försvann.
