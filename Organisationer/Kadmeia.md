@@ -26,7 +26,7 @@ Huset leds med järnhand av patriarken **Nikandros Kadmeia**, en man som styrs a
 
 Hans yngsta dotter, **Ismene Kadmeia**, tillhör också huset.
 
-Bland gardets befäl märks kapten **Thyra Vossakis**. Hon är inte född in i huset, utan en kvinna som arbetat sig upp genom leden. Hennes lojalitet ligger lika mycket hos sina egna som hos kommandokedjan.
+Bland gardets befäl märks kapten **[[Karaktärer/Thyra Vossakis|Thyra Vossakis]]**, en kvinna som arbetat sig upp genom leden.
 
 ## Plats
 
