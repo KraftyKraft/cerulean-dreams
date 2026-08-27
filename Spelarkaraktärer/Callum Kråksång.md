@@ -48,7 +48,7 @@ värld och andevärlden.
 **Talismanen.** En spektral amulett.
 
 **Charons guldmynt.** Plockat från Hels port vid Gnipahellir under
-[[Dimman över Morbejara]]. Charons symbol på ena sidan, Gorduns tre
+Dimman över Morbejara. Charons symbol på ena sidan, Gorduns tre
 segel på andra. Okänt om det fortfarande bär något av det gamla,
 korrumperade kontraktet.
 
