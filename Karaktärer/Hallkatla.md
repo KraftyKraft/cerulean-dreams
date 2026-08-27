@@ -36,15 +36,10 @@ En strådöd är ingen krigardöd. Hon talar inte om hur han dog.
 Riten spårade ur och porten stängdes aldrig. Halvard fastnade mellan världarna
 och dimman forsade ut genom glipan, om och om igen. Hon förstod inte varför.
 Riten var rätt utförd. Det var spelarna som till slut hittade orsaken och fick
-flödet att vända, och Halvard var den första anden att vandra in genom den nu
+flödet att vända, och Halvard var den första anden att sorgset vandra in genom den nu
 rättvända skrevan. Valkyriorna syntes på himlen strax efter.
 
-Under striden vid klippkanten stod hon gömd som en björk, utan att någon anade
-det. Till Kol Dorenden sade hon efteråt, om hans urgiska arv och hans runor:
-
-> *"Du ristar runorna rätt. Din klan lärde dig väl."*
-
-Det var allt. Men det var mycket.
+Under striden vid klippkanten stod hon först gömd som en björk, men avslöjade sig snart.
 
 ## Plats
 
