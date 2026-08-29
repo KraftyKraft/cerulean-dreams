@@ -10,7 +10,7 @@ krafter som människor inte förstår.
 
 ## Djupets varelser
 
-Urgamla entiteter lever i djuphavet. **[[Karaktärer/Tholam]]** är en av dem,
+Urgamla entiteter lever i djuphavet. **[[Monsters/Tholam]]** är en av dem,
 en överflödets och hungerns gud. Djupfolket är hans.
 
 **[[Lore/Scylla och Megalodon]]** är andra djuphavsväsen av kosmisk dignitet,

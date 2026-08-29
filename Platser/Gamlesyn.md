@@ -32,12 +32,12 @@ täckt av havsanemoner, och i bassängerna simmade Djupets Barn.
 
 ## Invånare
 
-**[[Karaktärer/Tholam]]** höll till i den innersta grottsalen.
+**[[Monsters/Tholam]]** höll till i den innersta grottsalen.
 
-**Stormens Stämma** hade sin bas här och styrde tornet genom poolen.
+**[[Karaktärer/Stormens Stämma]]** hade sin bas här och styrde tornet genom poolen.
 
-**Gordun Brodda** hölls här, delvis uppäten, under den tid Stormens Stämma red
-hennes psyke.
+**[[Karaktärer/Gordun Brodda]]** fanns kvar här bara som ett skal. Tholam bar
+henne som en strumpdocka på en av sina tentakler.
 
 ## Vad som hände med det
 

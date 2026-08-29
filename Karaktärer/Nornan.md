@@ -32,4 +32,4 @@ hon nämnde att Garm var lös, sagt lika likgiltigt som allt annat hon säger.
 
 ## Plats
 
-Vid **[[Platser/Bergspasset]]** ovanför Morbejara.
+Vid bergspasset ovanför Morbejara, där olivträden byts mot tallar och stenen bär runristningar som ingen i Morbejara ristat.

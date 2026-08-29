@@ -14,8 +14,7 @@ mäktigt handelsimperium i nordöstra delen av
 Staterna är formellt allierade men konkurrerar hårt.
 
 **Santavarre** är en grannstadsstat med pågående vapenskrammel mot
-Morbejara. **[[Karaktärer/Lyssandra Phokaine]]** är övertygad om att
-Santavarre ligger bakom det mesta som går fel.
+Morbejara.
 
 ## Handel
 
