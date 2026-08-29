@@ -19,6 +19,9 @@ Kontroll, makt, rikedom, i den ordningen ungefär. Hon önskar också att familj
 
 I nutid så är hela stadsdelen Gamlebrygga i princip hennes, men hon har kämpat hårt för den. Hennes gamla rival Gordun var det sista hindret, och nu är det ingen som utmanar henne där, utan att hon kämpar emot med näbbar och klor.
 
+Hon fick i slutändan veta att det var Gordun som låg bakom dimman över
+staden, och hon är rasande.
+
 ## Bakgrund
 
 Handelshuset Ruma Trabiri grundades av hennes far Kanelaides, ett
