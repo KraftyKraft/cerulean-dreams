@@ -5,7 +5,7 @@ tags:
   - gud
 ---
 
-Gudinnan som Circe tillber. En ljuskraft, i kontrast till
+Gudinnan som **[[Spelarkaraktärer/Circe]]** tillber. En ljuskraft, i kontrast till
 **[[Platser/Skuggornas rike]]**.
 
 Thelemas ljus skingrar skuggvarelser och illusioner, men drar också till sig
@@ -14,6 +14,5 @@ aldrig helt riskfritt.
 
 ## Circes trollformler
 
-- **Thelemas ljus.** Skingrar skuggvarelser och illusioner. Risk: drar till
-  sig något stort och hemskt.
-- **Thelemas nåd.** Handpåläggning, läkande.
+**[[Spelarkaraktärer/Circe]]** bär två av Thelemas trollformler, Thelemas ljus
+och Thelemas nåd. De står på hennes sida.
