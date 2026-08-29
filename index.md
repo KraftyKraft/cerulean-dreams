@@ -2,4 +2,4 @@
 title: Cerulean Dreams
 ---
 
-Welcome to the Cerulean Dreams wiki. Content is being added — check back soon.
+Welcome to the Cerulean Dreams wiki. Check the left menu to navigate articles.
