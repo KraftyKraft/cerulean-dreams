@@ -25,3 +25,10 @@ Gänget **Våghuggarna** höll till här.
 Sällskapet infiltrerade en ceremoni till **[[Monsters/Tholam]]** i krogen.
 Valrina vann över gästerna på sin sida, och de hjälpte till i striden mot
 Våghuggarna.
+
+## Våghuggarna
+
+Gänget hade historiskt arbetat för **[[Karaktärer/Gordun Brodda]]**, på ett
+halvt självständigt manér. De kapade en last som tillhörde
+**[[Karaktärer/Danifa Trabiri]]** och försvann sedan, och det var därför de
+satt på Tre Segel när sällskapet kom dit.
