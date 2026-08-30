@@ -3,7 +3,8 @@ title: Undervattensriket
 tags:
   - plats
   - region
-  - Ceruliska innerhavet
+  - svarta-pyramidernas-land
+  - ceruliska-havet
 ---
 
 Det forna riket som tillhörde **[[Lore/Ashash-Haroom]]**, under

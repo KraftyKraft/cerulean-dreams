@@ -2,7 +2,7 @@
 title: Spegellabyrinten
 tags:
   - plats
-  - Skuggornas rike
+  - skuggornas-rike
 ---
 
 En labyrint av speglar i bergspasset, vid ingången till

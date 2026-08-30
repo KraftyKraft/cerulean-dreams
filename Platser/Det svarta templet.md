@@ -3,10 +3,10 @@ title: Det svarta templet
 tags:
   - plats
   - ruin
-  - De Svarta Pyramidernas land
+  - svarta-pyramidernas-land
 ---
 
-Ökentempel vid en klippkant i närheten av **[[Platser/Ökendalen]]**, byggt av
+Ökentempel mellan [[Keiros]] och [[Hamz al-Lekhweb]], byggt av
 samma svarta sten som pyramiderna i **Hamz al-Lekhweb**. Templet finns inte
 längre: det sjönk ner i marken när spelarna lämnade det, och i dess ställe
 bildades en oas.
