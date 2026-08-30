@@ -16,11 +16,6 @@ bildades en oas.
 En rektangulär fasad med socklar längs framsidan. Sex av dem höll fortfarande
 sina statyer, vittrade nästan bortom igenkännlighet av sanden.
 
-Högt upp i klippväggen bakom templet, vid en avsats, satt hexagonala öppningar
-tätt intill varandra som en bivaxkaka. Därifrån tittade **First Men** ner på
-besökare, vita skepnader som verkade nervösa snarare än fientliga. Se
-**[[Lore/De Svarta Pyramidernas land]]**.
-
 Inuti var luften stillastående och gångarna slutade gång på gång i djupa schakt.
 
 ## Vägen in och genom
