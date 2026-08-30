@@ -12,7 +12,15 @@ Kyros-orden har varit en av Morbejaras mest respekterade trosriktningar. Det är
 
 Allt förändrades efter att något hände i Kyros stortempel och en kannibalistisk orgie utspelade sig på tempeltrapporna inför Hermeskopeias invånare. Skandalen krossade ordens anseende över en natt. Kammarrådet förklarade Kyros-orden olaglig kort därefter, templet förseglades, och det mesta av prästerskapet greps, flydde eller försvann.
 
-Ryktena vill dock göra gällande att spridda grupper av trogna fortfarande verkar i det fördolda, och att våld i staden på sistone kan spåras till dem.
+Spridda grupper av trogna verkar fortfarande i det fördolda.
+
+## Lojalisterna
+
+De som håller fast vid Kyros kallas numera bara lojalister. De flesta var aldrig krigare, bara ordenstjänare och vanligt folk som vägrar tro att deras gud hade något med skandalen att göra. Vad de saknar i stridsvana tar de igen i desperation. De är många, som fortfarande vägrar fly eller erkänna att de har tjänat kaos-krafter.
+
+De klär sig som vem som helst och rör sig med en spänd, jagad vaksamhet. Tecknet bärs dolt: en tjurhornsamulett under kläderna, en ristning på insidan av en ring. Vapnen är knivar och klubbor, sällan något riktigt.
+
+Sensommaren det fjortonde året förde en grupp lojalister bort **Ismene Kadmeia** mitt på ljusa dagen på **[[Platser/Morbejara/Lapithos]]** och höll henne i ett vattentorn utanför stadsmuren. En grupp meniga vakter ur **[[Organisationer/Kadmeia|Hus Kadmeia]]** spårade dem genom **[[Platser/Morbejara/Staden-under-staden]]** och fick ut henne levande.
 
 ## Kännetecken
 

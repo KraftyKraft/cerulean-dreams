@@ -21,6 +21,13 @@ utåt av talesmannen **Anastas Komnenaides**.
 
 Förhållandet till grannstadsstaten Santavarre är spänt.
 
+## Omland
+
+Landskapet utanför muren korsas av akvedukter som för vatten från bergen in
+till staden. Längs vägen står ett fåtal vattentorn som tjänar som cisterner åt
+bönderna. Staden har vuxit förbi sina murar, och kåkstäder breder ut sig
+nedanför valven.
+
 ## Distrikt
 
 Morbejara är uppdelat i fem huvuddistrikt:

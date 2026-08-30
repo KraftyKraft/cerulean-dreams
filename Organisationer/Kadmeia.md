@@ -24,7 +24,8 @@ Gardets medlemmar bär tornet i silver; den vanliga vaktstyrkan bär det i enkla
 
 Huset leds med järnhand av patriarken **Nikandros Kadmeia**, en man som styrs av principen att makt är dess eget rättfärdigande. Den som inte kan försvara sitt eget har bara sig själv att skylla. Han böjer sig sällan, om ens någonsin, oavsett vad det kostar honom personligen.
 
-Hans yngsta dotter, **Ismene Kadmeia**, tillhör också huset.
+Hans yngsta dotter, **Ismene Kadmeia**, tillhör också huset. Hon är strax efter tonåren komna, men det sägs att hon redan är en politisk mästare.
+Sensommaren år 14 blir hon kidnappad av **[[Organisationer/Kyros-orden|Kyros-lojalister]]**, som torterar henne i ett vattentorn utanför staden. Hon blir räddad av en grupp meniga husvakter. Hur hennes fångenskap och tortyr har påverkat henne står inte klart.
 
 Bland gardets befäl märks kapten **[[Karaktärer/Thyra Vossakis|Thyra Vossakis]]**, en kvinna som arbetat sig upp genom leden.
 

@@ -19,3 +19,11 @@ under **[[Platser/Morbejara/Basileia/]]**. Hit vänder man sig när man inte ens
 visa sitt ansikte i Gammelbrygga. Här finner man utstötta, förrädare
 och demontjänare – men kanske också stadens allra mest lukrativa
 möjligheter...
+
+## Kanalerna under Basileia och Lapithos
+
+Under de finare kvarteren löper ett eget system av huggen sten: trånga, våta tunnlar där strömmen drar i benen och varje ljud ekar långt före och efter en. Nedgångarna är källargaller, flera av dem sedan länge uppbrutna.
+
+En bit in ligger ett pumprum, och därifrån bär det vidare till en stor kupolsal. Hit mynnar en av stadens akvedukter, ner i en samlingsbassäng med sex utlopp åt olika håll.
+
+Kanalerna slutar högt uppe på akvedukten utanför stadsmuren.
