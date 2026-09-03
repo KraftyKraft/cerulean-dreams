@@ -3,7 +3,7 @@
 # Builds the site without vendoring the Quartz engine into this repo.
 # Quartz is cloned fresh from upstream on every build; only our content
 # and a couple of config overrides (title, base URL) come from this repo.
-FROM node:22-slim AS build
+FROM node:26-slim AS build
 
 RUN apt-get update && apt-get install -y --no-install-recommends git ca-certificates \
     && rm -rf /var/lib/apt/lists/*
