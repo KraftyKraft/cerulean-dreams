@@ -8,9 +8,9 @@ tags:
 
 | Attribut | Värde |
 | --- | --- |
-| Str | TBD |
-| Dex | TBD |
-| Con | TBD |
+| Str | 13 |
+| Dex | 12 |
+| Con | 11 |
 | Int | TBD |
 | Wis | TBD |
 | Cha | TBD |
