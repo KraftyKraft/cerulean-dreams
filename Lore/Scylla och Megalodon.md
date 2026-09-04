@@ -16,7 +16,7 @@ Urgammal havsbest. Den ena halvan av Djupets Tvillingar som härskar nere i det 
 Ett hål i marken med tentakler som flänger runt och sopar i sig allt i
 närheten. Kroppen sitter nere i en underjordisk kammare.
 
-När **[[Lore/Ashash-Haroom]]** försvagades och dog tog hon makten över
+När **[[Lore/Ashash-Haroom|Ashash-Haroom]]** försvagades och dog tog hon makten över
 hans rike, och sprängde sig upp ur marken mitt på undervattensstadens pelarallé, under hans begravning. Hennes spjutbärande fiskfolk och kentaurer höll riket i skräck och försörjde Scylla med mat.
 
 Hon besegrades när sällskapet kallade på hennes tvilling Megalodon.
@@ -46,4 +46,4 @@ Misslyckas den slukar Megalodon rösterna.
 > *"Ni har människans röst, jag har havets. Tillsammans kan vi väva dem till
 > något som når ner till Stumma Djupet."*
 >
-> — Vespera, se **[[Karaktärer/Ashash-Harooms barn]]**
+> — Vespera, se **[[Karaktärer/Ashash-Harooms barn|Ashash-Harooms barn]]**

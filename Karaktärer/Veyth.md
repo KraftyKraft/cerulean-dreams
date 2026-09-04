@@ -10,11 +10,11 @@ Kapten på skeppet *Månens Glans*.
 ## Drivkraft
 
 Sitt uppdrag: att leverera laster med döda till
-**[[Platser/Skuggornas rike]]**.
+**[[Platser/Skuggornas rike|Skuggornas rike]]**.
 
 ## Bakgrund
 
-Veyth lade till i **[[Platser/Förgätmighamn]]** medan sällskapet var där, och
+Veyth lade till i **[[Platser/Förgätmighamn|Förgätmighamn]]** medan sällskapet var där, och
 förklarade vindproblemet. Stormlika vindar för alla skepp in mot hamnen, och
 ingen kan kryssa mot dem.
 

@@ -35,7 +35,7 @@ Cetea, och han följde med gruppen till Gamlebrygga för att spåra en
 adress kopplad till misstänkta santavarrianer.
 
 I ett illegalt alkemistlabb under bryggorna tog Ötzi struptag på
-alkemisten [[Ramoz]] när denne började tala om kommunikation med
+alkemisten [[Karaktärer/Ramoz|Ramoz]] när denne började tala om kommunikation med
 icke-materiella väsen. Något i orden fick Ötzi att reagera med rått
 våld. Labbets vakter stormade in. Ötzi högg ner flera av dem innan han
 föll, stucken av dussintals dolkar.
@@ -59,8 +59,8 @@ Warhammer, Bone Bow, Hide Armor.
 
 ## Relationer
 
-[[Kol Dorenden]] — annan urgisk krigare i Morbejara.
+[[Spelarkaraktärer/Kol Dorenden|Kol Dorenden]] — annan urgisk krigare i Morbejara.
 
-[[Danifa Trabiri]] — frigav honom ur fångenskap som förstärkning.
+[[Karaktärer/Danifa Trabiri|Danifa Trabiri]] — frigav honom ur fångenskap som förstärkning.
 
-[[Cetea]] — stred vid hans sida i Gamlebrygga.
+[[Spelarkaraktärer/Cetea|Cetea]] — stred vid hans sida i Gamlebrygga.

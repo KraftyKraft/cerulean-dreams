@@ -19,8 +19,8 @@ sedan dess styrt Morbejara.
 | 1 | Revolutionen. Kejsardömet störtas, Anastas Komnenaides blir talesman. |
 | 13 | Dimman över Morbejara |
 | 14 | Öppna strider mellan St. Bartholomeus-orden och Hus Sarissos |
-| 14 | En kannibalistisk orgie äger rum på Kyros-ordens tempeltrappor. Kammarrådet förklarar **[[Organisationer/Kyros-orden]]** olaglig. |
+| 14 | En kannibalistisk orgie äger rum på Kyros-ordens tempeltrappor. Kammarrådet förklarar **[[Organisationer/Kyros-orden|Kyros-orden]]** olaglig. |
 | 14 | Tjurens dödskramper |
 | 15 | Profeten i Gamlebrygga |
-| 18 | Profit i östled börjar. [[Valrina]] kämpar sig igenom skuggornas rike. |
+| 18 | Profit i östled börjar. [[Spelarkaraktärer/Valrina|Valrina]] kämpar sig igenom skuggornas rike. |
 

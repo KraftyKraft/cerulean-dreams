@@ -8,7 +8,7 @@ tags:
 ## Kännetecken
 
 En enorm figur som vuxit fram ur stadsporten i
-**[[Platser/Förgätmighamn]]**. Vingarna är fastmurade i stadsmuren och
+**[[Platser/Förgätmighamn|Förgätmighamn]]**. Vingarna är fastmurade i stadsmuren och
 överkroppen hänger ut över vägen. Det skalliga huvudet sveper fram och
 tillbaka såsom hos en gam.
 
@@ -23,7 +23,7 @@ Bokföring. Han håller räkning på alla som passerar och vad de betalat.
 Mordigal tar betalt för inträde till Förgätmighamn. Normalpriset är själen.
 De med tillräcklig viljestyrka kan förhandla.
 
-**[[Spelarkaraktärer/Valrina]]** lurade honom genom att betala med Sol i
+**[[Spelarkaraktärer/Valrina|Valrina]]** lurade honom genom att betala med Sol i
 stället för med sin själ. Han åt upp Sol, vars fingerflöjter pep upp i falsett och sedan tystnade.
 
 ## Plats

@@ -9,7 +9,7 @@ tags:
 with which to recompense Heaven. Kill. Kill. Kill. Kill. Kill. Kill. Kill."
 
 En demonisk kraft bunden till svärdet *The Scimitar of the Devouring Horde*,
-och numera delvis till **[[Spelarkaraktärer/Kol Dorenden]]** själv.
+och numera delvis till **[[Spelarkaraktärer/Kol Dorenden|Kol Dorenden]]** själv.
 
 Kol dog, och slöt ett kontrakt med demonen för att få tillbaka sitt liv. Han
 bär nu titeln *Bäraren av det nionde standaret*.

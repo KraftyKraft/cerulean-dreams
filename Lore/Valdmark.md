@@ -28,5 +28,5 @@ etablerat valdmarkskt inslag i befolkningen.
 
 ## Kända valdmarkare
 
-- **[[Karaktärer/Veridia]]**: ekonom och akademiker vid universitetet i
+- **[[Karaktärer/Veridia|Veridia]]**: ekonom och akademiker vid universitetet i
   Morbejara.

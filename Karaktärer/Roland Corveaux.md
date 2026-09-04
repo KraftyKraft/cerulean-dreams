@@ -35,4 +35,4 @@ Roland överlevde attacken och blev den ende kvarvarande ledaren för ordens exp
 
 ## Plats
 
-Sankt Bartholomeus Heliga Ordens befästa läger i **[[Platser/Morbejara/Lapithos]]**.
+Sankt Bartholomeus Heliga Ordens befästa läger i **[[Platser/Morbejara/Lapithos|Lapithos]]**.

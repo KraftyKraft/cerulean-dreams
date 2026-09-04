@@ -7,7 +7,7 @@ tags:
 ---
 
 Ett litet snedstympat torn i utkanten av
-**[[Platser/Morbejara/Gamlebrygga]]**, som i tur och ordning varit fyrtorn,
+**[[Platser/Morbejara/Gamlebrygga|Gamlebrygga]]**, som i tur och ordning varit fyrtorn,
 vakttorn och borg. Kallades **Gorduns borg** under den tid Gordun Brodda höll
 den.
 
@@ -32,11 +32,11 @@ täckt av havsanemoner, och i bassängerna simmade Djupets Barn.
 
 ## Invånare
 
-**[[Monsters/Tholam]]** höll till i den innersta grottsalen.
+**[[Monsters/Tholam|Tholam]]** höll till i den innersta grottsalen.
 
-**[[Karaktärer/Stormens Stämma]]** hade sin bas här och styrde tornet genom poolen.
+**[[Karaktärer/Stormens Stämma|Stormens Stämma]]** hade sin bas här och styrde tornet genom poolen.
 
-**[[Karaktärer/Gordun Brodda]]** fanns kvar här bara som ett skal. Tholam bar
+**[[Karaktärer/Gordun Brodda|Gordun Brodda]]** fanns kvar här bara som ett skal. Tholam bar
 henne som en strumpdocka på en av sina tentakler.
 
 ## Vad som hände med det

@@ -14,7 +14,7 @@ gångar och tunnlar. Starka cykloniska vindar blåser upp genom taket.
 Berget är känt för att vara farligt — få som ger sig in bland
 tunnlarna återvänder.
 
-Bergen utgör gränsen mellan **[[Platser/Skuggornas rike]]** och vägen ut.
+Bergen utgör gränsen mellan **[[Platser/Skuggornas rike|Skuggornas rike]]** och vägen ut.
 
 ## Vägen upp
 

@@ -45,7 +45,7 @@ spegel.
 
 **Hapshut.** En apa, Nicos sällskapsdjur.
 
-**Sirena.** En av [[Ashash-Haroom]]s döttrar, älskarinna till Nico efter
+**Sirena.** En av [[Lore/Ashash-Haroom|Ashash-Haroom]]&#8203;s döttrar, älskarinna till Nico efter
 räddningen ur Scyllas fångenskap i Undervattensriket. Smaragdgrön med
 gula och ljusgröna fläckar, gyllene hår som böljar i vattnet, en
 lockande röst. Älskar honom villkorslöst.

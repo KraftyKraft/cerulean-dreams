@@ -33,14 +33,14 @@ nedanför valven.
 
 Morbejara är uppdelat i fem huvuddistrikt:
 
-- **[[Platser/Morbejara/Gamlebrygga/]]** — de gamla, förfallna bryggorna. Dimman ligger
+- **[[Platser/Morbejara/Gamlebrygga|Gamlebrygga]]** — de gamla, förfallna bryggorna. Dimman ligger
   tätast här, och folk håller sig inomhus efter mörkrets inbrott.
-- **[[Platser/Morbejara/Hermeskopeia/]]** — en lång gata av profeter och präster som tävlar
+- **[[Platser/Morbejara/Hermeskopeia|Hermeskopeia]]** — en lång gata av profeter och präster som tävlar
   om folkets gunst, nära tempeltorget.
-- **[[Platser/Morbejara/Thalassopolis/]]** — den murade hamnen med handelshusens kontor.
+- **[[Platser/Morbejara/Thalassopolis|Thalassopolis]]** — den murade hamnen med handelshusens kontor.
   Stadens officiella ansikte utåt.
-- **[[Platser/Morbejara/Lapithos/]]** — skrån, verkstäder och akademiska institutioner. Ett
+- **[[Platser/Morbejara/Lapithos|Lapithos]]** — skrån, verkstäder och akademiska institutioner. Ett
   kvarter för den bildade klassen.
-- **[[Platser/Morbejara/Basileia/]]** — det forna kejsardistriktet. Kammarrådet håller till
+- **[[Platser/Morbejara/Basileia|Basileia]]** — det forna kejsardistriktet. Kammarrådet håller till
   i det forna kejserliga palatset. Här finner man de mäktigaste handelshusens
   herrgårdar liksom utländska ambassader.

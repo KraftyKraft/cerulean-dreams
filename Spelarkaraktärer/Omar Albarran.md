@@ -27,9 +27,9 @@ tags:
 
 Civilised. Santavarrisk, något till åren kommen. Har arbetat en tid i
 de alkemiska laboratorierna under Gamlebrygga som lärling under
-[[Ramoz]]. Anlitas ibland av [[Danifa Trabiri]].
+[[Karaktärer/Ramoz|Ramoz]]. Anlitas ibland av [[Karaktärer/Danifa Trabiri|Danifa Trabiri]].
 
-Lämnade nyligen Morbejara tillsammans med [[Ishaq Abenzar]] för nya
+Lämnade nyligen Morbejara tillsammans med [[Karaktärer/Ishaq Abenzar|Ishaq Abenzar]] för nya
 äventyr på andra håll. En paus, inte ett avslut.
 
 ## Bakgrunder
@@ -42,8 +42,8 @@ Dolk, lätt läderharnesk, formelbok med alkemiska formler.
 
 ## Relationer
 
-[[Ramoz]]. Omars läromästare i de alkemiska laboratorierna.
+Ramoz. Omars läromästare i de alkemiska laboratorierna.
 
-[[Danifa Trabiri]]. Anlitar honom ibland.
+Danifa Trabiri. Anlitar honom ibland.
 
-[[Ishaq Abenzar]]. Omar reste iväg med honom från Morbejara.
+Ishaq Abenzar. Omar reste iväg med honom från Morbejara.

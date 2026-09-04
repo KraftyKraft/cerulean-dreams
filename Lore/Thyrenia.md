@@ -5,9 +5,9 @@ tags:
   - nation
 ---
 
-Den handelsunion av stadsstater som **[[Platser/Morbejara]]** tillhör. Ett
+Den handelsunion av stadsstater som **[[Platser/Morbejara|Morbejara]]** tillhör. Ett
 mäktigt handelsimperium i nordöstra delen av
-**[[Lore/Det Ceruliska innerhavet]]**.
+**[[Lore/Det Ceruliska innerhavet|Det Ceruliska innerhavet]]**.
 
 ## Politik
 
@@ -21,7 +21,7 @@ Morbejara.
 Ökendagg, ett livgivande destillat av ökensippan från regionen Askaria, är en
 viktig importvara.
 
-Produktionen har störts någonstans i **[[Platser/Hamz al-Lekhweb]]**, och sällskapet har fått i uppdrag att lösa det av [[Danifa Trabiri]].
+Produktionen har störts någonstans i **[[Platser/Hamz al-Lekhweb|Hamz al-Lekhweb]]**, och sällskapet har fått i uppdrag att lösa det av [[Karaktärer/Danifa Trabiri|Danifa Trabiri]].
 
 ## Urgiker
 

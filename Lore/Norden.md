@@ -21,5 +21,5 @@ många urgisker för i och kring staden.
 
 ## Norden och Valdmark
 
-Norden gränsar inte direkt till **[[Lore/Valdmark]]**, men de två kulturerna
+Norden gränsar inte direkt till **[[Lore/Valdmark|Valdmark]]**, men de två kulturerna
 har en lång och komplicerad historia tillsammans.

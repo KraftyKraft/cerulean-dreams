@@ -5,8 +5,8 @@ tags:
   - urgik
 ---
 
-Urgikland är **[[Spelarkaraktärer/Kol Dorenden]]s** och
-**[[Karaktärer/Hallkatla]]s** ursprungsområde. En nordlig krigarkultur med
+Urgikland är **[[Spelarkaraktärer/Kol Dorenden|Kol Dorenden]]&#8203;s** och
+**[[Karaktärer/Hallkatla|Hallkatla]]&#8203;s** ursprungsområde. En nordlig krigarkultur med
 stark klanidentitet, och en tro djupt rotad i döden och ödets ofrånkomlighet.
 
 ## Hel och de döda
@@ -33,7 +33,7 @@ Att inte kunna begrava sina döda ordentligt är en stor skam.
 
 Väverskor av öden. De sitter vid vägskäl och prövar dem som passerar, inte av
 grymhet utan av natur. De kan märka resande med ödet och skänka föremål av
-kraft, som Nornans tråd. Se **[[Karaktärer/Nornan]]**.
+kraft, som Nornans tråd. Se **[[Karaktärer/Nornan|Nornan]]**.
 
 ## Klaner och heder
 

@@ -22,7 +22,7 @@ sörjer hon, men det finns också en äventyrslusta hon aldrig riktigt lagt av s
 
 ## Bakgrund
 
-Häxmatriark av **Björkätten**, en av Urgarikes klaner. Se **[[Lore/Urgisk tro och seder]]**.
+Häxmatriark av **Björkätten**, en av Urgarikes klaner. Se **[[Lore/Urgisk tro och seder|Urgisk tro och seder]]**.
 
 Hennes son **Halvard** dog i räden mot Morbejara, men inte i strid. Hon sökte
 honom i Valhall och fann honom inte där, för en strådöd tar en annan väg: längs
