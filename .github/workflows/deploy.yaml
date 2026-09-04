@@ -21,16 +21,20 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
-          ref: ${{ github.ref_name }}
-      - name: Format wikilinks
+          fetch-depth: 0
+      - name: Format changed Markdown
+        if: github.event_name == 'push'
+        run: ./tools/format-wikilinks.sh --changed "${{ github.event.before }}" "${{ github.sha }}"
+      - name: Format Markdown on manual run
+        if: github.event_name == 'workflow_dispatch'
         run: ./tools/format-wikilinks.sh --all
-      - name: Commit wikilink formatting
+      - name: Commit formatting changes
         run: |
           if ! git diff --quiet -- '*.md'; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -- '*.md'
-            git commit -m "Format wikilinks"
+            git commit -m "Normalize Markdown"
             git push
           fi
       - uses: docker/setup-buildx-action@v4

@@ -3,15 +3,25 @@ set -eu
 
 
 usage() {
-    echo "Usage: $0 --all | --staged" >&2
+    echo "Usage:" >&2
+    echo "  $0 --all" >&2
+    echo "  $0 --staged" >&2
+    echo "  $0 --changed <base-ref> <head-ref>" >&2
     exit 2
 }
 
 
 MODE=${1:-}
+BASE_REF=""
+HEAD_REF=""
 
 case "$MODE" in
     --all|--staged)
+        ;;
+    --changed)
+        [ "$#" -eq 3 ] || usage
+        BASE_REF=$2
+        HEAD_REF=$3
         ;;
     *)
         usage
@@ -100,7 +110,9 @@ get_frontmatter_title() {
 }
 
 
-# Build repository-wide article index.
+# ----------------------------------------------------------------------
+# Build repository-wide article index
+# ----------------------------------------------------------------------
 
 git -c core.quotepath=false ls-files -- '*.md' |
 while IFS= read -r rel; do
@@ -140,7 +152,9 @@ while IFS= read -r rel; do
 done
 
 
-# Select files to process.
+# ----------------------------------------------------------------------
+# Select files to process
+# ----------------------------------------------------------------------
 
 if [ "$MODE" = "--all" ]; then
 
@@ -154,7 +168,7 @@ if [ "$MODE" = "--all" ]; then
 
     done
 
-else
+elif [ "$MODE" = "--staged" ]; then
 
     git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR -- '*.md' |
     while IFS= read -r rel; do
@@ -166,10 +180,45 @@ else
 
     done
 
+else
+
+    # --changed: process Markdown changed between two Git refs.
+    #
+    # GitHub's "before" SHA can be all zeroes for a newly created
+    # branch/ref. In that case compare HEAD as a root commit instead.
+
+    case "$BASE_REF" in
+        0000000000000000000000000000000000000000)
+            git -c core.quotepath=false diff-tree --root --no-commit-id --name-only -r --diff-filter=ACMR "$HEAD_REF" -- '*.md' |
+            while IFS= read -r rel; do
+
+                [ -f "$rel" ] || continue
+                is_site_markdown "$rel" || continue
+
+                printf '%s\n' "$rel" >> "$FILES_FILE"
+
+            done
+            ;;
+
+        *)
+            git -c core.quotepath=false diff --name-only --diff-filter=ACMR "$BASE_REF" "$HEAD_REF" -- '*.md' |
+            while IFS= read -r rel; do
+
+                [ -f "$rel" ] || continue
+                is_site_markdown "$rel" || continue
+
+                printf '%s\n' "$rel" >> "$FILES_FILE"
+
+            done
+            ;;
+    esac
+
 fi
 
 
-# Refuse partially staged Markdown files.
+# ----------------------------------------------------------------------
+# Prevent accidental staging of unrelated working-tree changes
+# ----------------------------------------------------------------------
 
 if [ "$MODE" = "--staged" ]; then
 
@@ -198,8 +247,9 @@ if [ "$MODE" = "--staged" ]; then
 fi
 
 
-# Validate the run before modifying files.
-# Dangling links are allowed and are not reported during this pass.
+# ----------------------------------------------------------------------
+# Validate run before modifying anything
+# ----------------------------------------------------------------------
 
 while IFS= read -r rel; do
 
@@ -212,7 +262,9 @@ while IFS= read -r rel; do
 done < "$FILES_FILE"
 
 
-# Transform files.
+# ----------------------------------------------------------------------
+# Transform files
+# ----------------------------------------------------------------------
 
 changed=0
 
@@ -234,11 +286,21 @@ while IFS= read -r rel; do
 done < "$FILES_FILE"
 
 
-if [ "$MODE" = "--staged" ]; then
-    echo "wikilinks: formatted and re-staged $changed Markdown file(s)."
-else
-    echo "wikilinks: formatted $changed Markdown file(s)."
-fi
+# ----------------------------------------------------------------------
+# Summary
+# ----------------------------------------------------------------------
+
+case "$MODE" in
+    --staged)
+        echo "wikilinks: formatted and re-staged $changed Markdown file(s)."
+        ;;
+    --changed)
+        echo "wikilinks: formatted $changed changed Markdown file(s)."
+        ;;
+    --all)
+        echo "wikilinks: formatted $changed Markdown file(s)."
+        ;;
+esac
 
 
 if [ -s "$DANGLING_FILE" ]; then
