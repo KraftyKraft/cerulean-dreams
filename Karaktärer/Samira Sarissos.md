@@ -17,7 +17,7 @@ vagt road av händelserna runt sig och delger aldrig sina agenda i klartext.
 
 ## Drivkraft
 
-Övergripande är hus Sarissos agenda Samiras. Utkomsten av alla händelser riktas 
+Övergripande är hus [[Sarissos]] agenda Samiras. Utkomsten av alla händelser riktas 
 mot att försvaga eller så konflikter bland andra faktioner - samt stärka 
 Sarissos maktposition och anseende i staden.
 
@@ -34,6 +34,6 @@ Samira Sarissos tycks ha lett hus Sarissos i flera generationer - hennes exakta
 
 ## Plats
 
-Endast i officiella sammanhang syns Samira utanför Sarissos residens i **[[Platser/Morbejara/Basileia]]**, 
-däremot har hon en slående likhet med hus Sarissos hushållsföreståndare **Vassra** 
+Endast i officiella sammanhang syns Samira utanför Sarissos residens i **[[Basileia]]**, 
+däremot har hon en slående likhet med hus [[Handelshuset Sarissos]] hushållsföreståndare **Vassra** 
 som ofta rör sig runt Morbejara i olika ärenden.
