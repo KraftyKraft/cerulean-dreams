@@ -11,6 +11,16 @@ Click the pencil icon on any file on GitHub to edit it, or add new
 `.md` files directly. Every push to `main` rebuilds and republishes
 the site automatically.
 
+Links can be written simply as [[Page name]] or [[Page title]]. They are normalized
+automatically when committing locally or after editing through GitHub.
+Only the first link to the same page in an article is kept as a link;
+later occurrences are converted to plain text.
+
+When cloning the repo for local editing, run ./setup-hook.sh once.
+This enables the repository's pre-commit hook, which automatically
+normalizes Markdown links before each commit. Edits made directly on
+GitHub are normalized by the deployment workflow instead.
+
 ### Templates
 
 Some folders (e.g. `Spelarkaraktärer/`) have a `Mall.md` file — copy

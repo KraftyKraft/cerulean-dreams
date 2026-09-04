@@ -20,3 +20,4 @@ public
 .githooks
 tools
 .gitattributes
+setup-hook.sh
