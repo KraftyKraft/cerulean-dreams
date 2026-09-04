@@ -8,7 +8,7 @@ tags:
 ## Kännetecken
 
 Lång, ståtlig och nästan svävande i sina rörelser framstår den immakulöst
-klädda ledaren för hus **[[Organisationer/Sarissos]]** som en nästan överjordlig varelse. 
+klädda ledaren för hus **[[Organisationer/Sarissos|Sarissos]]** som en nästan överjordlig varelse. 
 Hennes hypnotiska ögon och silkesrena, väsande röst ger ett intryck av att hon
 redan vet hemligheter om dig du inte ens känner till själv.
 
@@ -34,6 +34,6 @@ Samira Sarissos tycks ha lett hus Sarissos i flera generationer - hennes exakta
 
 ## Plats
 
-Endast i officiella sammanhang syns Samira utanför Sarissos residens i **[[Platser/Morbejara/Basileia]]**, 
-däremot har hon en slående likhet med hus Sarissos hushållsföreståndare **Vassra** 
+Endast i officiella sammanhang syns Samira utanför Sarissos residens i **[[Platser/Morbejara/Basileia|Basileia]]**, 
+däremot har hon en slående likhet med hus Handelshuset Sarissos hushållsföreståndare **Vassra** 
 som ofta rör sig runt Morbejara i olika ärenden.

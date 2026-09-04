@@ -15,3 +15,9 @@ public
 # Authoring templates — kept in the repo for contributors to copy from,
 # but not meant to be a published page themselves.
 **/Mall.md
+
+# Repository tooling — not Quartz content.
+.githooks
+tools
+.gitattributes
+setup-hook.sh
