@@ -3,30 +3,29 @@ title: Ioannis Morbejaras
 tags:
   - spelarkaraktär
   - vakt
-  - stub
 ---
 
 | Attribut | Värde |
 | --- | --- |
-| Str | TBD |
-| Dex | TBD |
-| Con | TBD |
-| Int | TBD |
-| Wis | TBD |
-| Cha | TBD |
+| Str | 9 |
+| Dex | 16 |
+| Con | 9 |
+| Int | 10 |
+| Wis | 10 |
+| Cha | 10 |
 
 | Stat | Värde |
 | --- | --- |
-| Level | 1 |
-| Alignment | TBD |
-| Doom die | TBD |
-| DMG | TBD |
-| Unarmed | TBD |
-| HP | TBD |
+| Level | 2 |
+| Alignment | Law |
+| Doom die | 1d6 |
+| DMG | 1d6 |
+| Unarmed | 1d4 |
+| HP | 10 |
 
 ## Origin och historia
 
-TBD. Ung vakt i Hus Kadmeia.
+Civilised. Växte upp på gatan innan han värvades som vakt i Hus Kadmeia. Runt 25 år, en av de yngre i skvadronen.
 
 ## Utseende & personlighet
 
@@ -34,15 +33,15 @@ Fanatisk syn på vaktyrket, tar plikten på stort allvar.
 
 ## Bakgrunder
 
-TBD.
+Street Urchin, Sword master, Hunter.
 
 ## Gifts
 
-TBD.
+Inga ännu (nästa vid nivå 3).
 
 ## Utrustning
 
-TBD.
+Pilbåge, svärd (Sword master).
 
 ## Relationer
 

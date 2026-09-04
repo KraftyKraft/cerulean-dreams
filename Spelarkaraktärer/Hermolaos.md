@@ -3,30 +3,29 @@ title: Hermolaos
 tags:
   - spelarkaraktär
   - vakt
-  - stub
 ---
 
 | Attribut | Värde |
 | --- | --- |
-| Str | TBD |
-| Dex | TBD |
-| Con | TBD |
-| Int | TBD |
-| Wis | TBD |
-| Cha | TBD |
+| Str | 8 |
+| Dex | 12 |
+| Con | 12 |
+| Int | 11 |
+| Wis | 12 |
+| Cha | 12 |
 
 | Stat | Värde |
 | --- | --- |
-| Level | 1 |
-| Alignment | TBD |
-| Doom die | TBD |
-| DMG | TBD |
-| Unarmed | TBD |
-| HP | TBD |
+| Level | 2 |
+| Alignment | Law |
+| Doom die | 1d6 |
+| DMG | 1d6 |
+| Unarmed | 1d4 |
+| HP | 12 |
 
 ## Origin och historia
 
-TBD. Ung uppfinnare, tidigare gatubarn. Nu ung vakt i Hus Kadmeia.
+Civilised. Föddes på gatan, ung uppfinnare med kopplingar till alkemistgillet. Nu ung vakt i Hus Kadmeia, runt 17 år.
 
 ## Utseende & personlighet
 
@@ -34,15 +33,15 @@ Mer i kontakt med sin mänskliga sida än flera av sina medvakter. Bygger egna p
 
 ## Bakgrunder
 
-TBD.
+Inventor, Street Urchin, Hunter.
 
 ## Gifts
 
-TBD.
+Inga ännu (nästa vid nivå 3).
 
 ## Utrustning
 
-Skräckgranater (egentillverkade). Övrigt TBD.
+Gasmask och skräckgranater (egentillverkade, Inventor).
 
 ## Relationer
 

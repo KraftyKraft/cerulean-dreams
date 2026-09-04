@@ -26,7 +26,7 @@ tags:
 
 ## Origin och historia
 
-TBD. Lean, mörkhyad man från sydöarna. Nu vakt i Hus Kadmeia.
+Barbarian. Föddes och växte upp som krigare på en tropisk ö söderifrån. Lean, mörkhyad man. Nu vakt i Hus Kadmeia.
 
 ## Utseende & personlighet
 
@@ -34,7 +34,16 @@ Praktiskt lagd, snabb att hitta en enkel lösning på en akut situation. Falska 
 
 ## Bakgrunder
 
-TBD.
+Shaman, Herbalist, Surgeon.
+
+## Spirit alliances (p. 29)
+
+**Ancestor spirit**. The wise counsel of an ancestor gives you Advantage to one attribute test. You must possess an
+object that belonged to the ancestor to be able to summon them. On a roll of 1 the ancestor disapproves of your action
+and gives you Disadvantage instead.
+
+**Wind spirit**. This spirit can be invoked to extinguish flames, dissipate toxic fumes, or even force humanoids to the
+ground. A result of 1 has the opposite effect: flames are fanned, toxic fumes move towards the shaman, etc.
 
 ## Gifts
 

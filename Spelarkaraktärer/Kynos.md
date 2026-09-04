@@ -18,15 +18,15 @@ tags:
 | Stat | Värde |
 | --- | --- |
 | Level | 1 |
-| Alignment | TBD |
-| Doom die | TBD |
+| Alignment | Law |
+| Doom die | 1d6 |
 | DMG | TBD |
 | Unarmed | TBD |
 | HP | TBD |
 
 ## Origin och historia
 
-TBD. Cirka 35 år gammal, något sliten. Vakt i Hus Kadmeia.
+Civilised. Före detta bödel och karavanvakt i flera år, innan han blev vakt i Hus Kadmeia. Cirka 35 år gammal, något sliten.
 
 ## Utseende & personlighet
 
@@ -34,7 +34,7 @@ Petig med regler, en riktig paragrafryttare.
 
 ## Bakgrunder
 
-TBD.
+Bodyguard, Diplomat, Legionnaire.
 
 ## Gifts
 
