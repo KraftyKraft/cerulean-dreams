@@ -10,10 +10,10 @@ krafter som människor inte förstår.
 
 ## Djupets varelser
 
-Urgamla entiteter lever i djuphavet. **[[Monsters/Tholam]]** är en av dem,
+Urgamla entiteter lever i djuphavet. **[[Monsters/Tholam|Tholam]]** är en av dem,
 en överflödets och hungerns gud. Djupfolket är hans.
 
-**[[Lore/Scylla och Megalodon]]** är andra djuphavsväsen av kosmisk dignitet,
+**[[Lore/Scylla och Megalodon|Scylla och Megalodon]]** är andra djuphavsväsen av kosmisk dignitet,
 Djupets Tvillingar. Scylla står för hunger och förtäring, Megalodon likaså.
 
 ## Fiskfolk
@@ -26,13 +26,13 @@ Stormens Stämma var en djuping som infiltrerade Gamlebrygga.
 ## Undervattensrikena
 
 Under havet finns civilisationer med korallbyggda tempel och kungadömen med
-egna politiska konflikter. **[[Lore/Ashash-Haroom]]** var en urgammal
+egna politiska konflikter. **[[Lore/Ashash-Haroom|Ashash-Haroom]]** var en urgammal
 härskare vars rike sällskapet besökte. Hans ättlingar lever fortfarande, se
-**[[Platser/Undervattensriket]]**.
+**[[Platser/Undervattensriket|Undervattensriket]]**.
 
 ## Havets karaktär
 
 Havet ger och tar. Det är likgiltigt men inte passivt.
 
-Sjömän i Morbejara söker **[[Karaktärer/Tant Salt]]** och hennes välsignelse
+Sjömän i Morbejara söker **[[Karaktärer/Tant Salt|Tant Salt]]** och hennes välsignelse
 inför långa resor. Det är klokt gjort.

@@ -6,7 +6,7 @@ tags:
 ---
 
 Den vita jätten. Hans riktiga namn är Hector, men han döpte sig själv till
-Varg i **[[Platser/Skuggornas rike]]**.
+Varg i **[[Platser/Skuggornas rike|Skuggornas rike]]**.
 
 ## Kännetecken
 
@@ -25,7 +25,7 @@ lojaliteten men inte mot vem.
 Varg besitter en mytologisk, legendarisk fysisk kraft.
 
 I dödsriket vred han ett kvarnhjul i ett meningslöst evigt arbete, tills
-**[[Spelarkaraktärer/Valrina]]** avslutade hans visa åt honom och väckte
+**[[Spelarkaraktärer/Valrina|Valrina]]** avslutade hans visa åt honom och väckte
 honom. Sedan lossade han hjulet och rullade det mot havet, under sång.
 
 ## Vad han minns

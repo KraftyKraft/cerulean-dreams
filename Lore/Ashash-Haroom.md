@@ -7,7 +7,7 @@ tags:
 ---
 
 Urgammal härskare över ett undervattensrike i
-**[[Lore/Det Ceruliska innerhavet]]**. Kallas också *Dagget om Morgonen*.
+**[[Lore/Det Ceruliska innerhavet|Det Ceruliska innerhavet]]**. Kallas också *Dagget om Morgonen*.
 
 Han är död. Hans begravning var den händelse som utlöste Scyllas angrepp på
 riket.
@@ -23,7 +23,7 @@ skydda riket, men var för gammal och skröplig för att lyckas.
 ## Ättlingarna
 
 Fyra barn, som sällskapet räddade ur Scyllas fångenskap: Sirena, Vespera,
-Anomea och Corax. Se **[[Karaktärer/Ashash-Harooms barn]]**.
+Anomea och Corax. Se **[[Karaktärer/Ashash-Harooms barn|Ashash-Harooms barn]]**.
 
 Riket lever vidare utan sin härskare. Framtiden för
-**[[Platser/Undervattensriket]]** är oklar, men i ättlingarnas goda händer ser riket nog fram emot en ny guldålder.
+**[[Platser/Undervattensriket|Undervattensriket]]** är oklar, men i ättlingarnas goda händer ser riket nog fram emot en ny guldålder.

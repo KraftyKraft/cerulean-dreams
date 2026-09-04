@@ -27,4 +27,4 @@ Arbetade sig upp genom Kadmeias led till gardet och vidare till kapten. Hennes o
 
 ## Plats
 
-Att hitta i citadellet Kadmeia i **[[Platser/Morbejara/Basileia]]**, oftast bland gardet snarare än i patriarkens sällskap.
+Att hitta i citadellet Kadmeia i **[[Platser/Morbejara/Basileia|Basileia]]**, oftast bland gardet snarare än i patriarkens sällskap.

@@ -10,7 +10,7 @@ tags:
 ## Beskrivning
 
 Liten och väl befäst hamnstad i östra delen av
-**[[Lore/Det Ceruliska innerhavet]]**. Kallas "Öknens pärla" och "Porten till
+**[[Lore/Det Ceruliska innerhavet|Det Ceruliska innerhavet]]**. Kallas "Öknens pärla" och "Porten till
 Öst". Härifrån går vägen ut i öknen och vidare österut.
 
 Staden lever på stora marknader för expeditionsutrustning: stall,
@@ -26,7 +26,7 @@ Santavarre har köpt upp all utrustning och alla hästar inför sin expedition.
 Marknaderna är länsade och bara usla åsnor står kvar i stallen.
 
 I ett av stallen hittades **Kallax** upphängd, dödad av
-**[[Karaktärer/Gughlug]]**.
+**[[Karaktärer/Gughlug|Gughlug]]**.
 
 ## Invånare
 

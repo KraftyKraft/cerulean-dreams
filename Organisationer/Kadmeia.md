@@ -31,7 +31,7 @@ Bland gardets befäl märks kapten **[[Karaktärer/Thyra Vossakis|Thyra Vossakis
 
 ## Plats
 
-Citadellet Kadmeia reser sig i **[[Platser/Morbejara/Basileia]]**, omgivet av de baracker och förläggningar som härbärgerar stadens vaktstyrkor.
+Citadellet Kadmeia reser sig i **[[Platser/Morbejara/Basileia|Basileia]]**, omgivet av de baracker och förläggningar som härbärgerar stadens vaktstyrkor.
 
 ## Interaktioner
 

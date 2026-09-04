@@ -22,4 +22,4 @@ Gammal adel som överlevt genom att kompromissa. Numera jobbar hon som specialad
 
 ## Plats
 
-Kan ofta återfinnas på finkrogen "I pärlans sköte" i [[Lapithos]]. Hon har också ett kontor någonstans i stadsdelen, där hon sitter med andra kontorister av olika slag.
+Kan ofta återfinnas på finkrogen "I pärlans sköte" i [[Platser/Morbejara/Lapithos|Lapithos]]. Hon har också ett kontor någonstans i stadsdelen, där hon sitter med andra kontorister av olika slag.

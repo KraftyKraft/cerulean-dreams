@@ -5,7 +5,7 @@ tags:
   - undervattensriket
 ---
 
-Tre invånare i **[[Platser/Undervattensriket]]** som fängslades i
+Tre invånare i **[[Platser/Undervattensriket|Undervattensriket]]** som fängslades i
 korallvakttornet av Scyllas fiskfolk.
 
 De var inte hjärntvättade, och kunde förklara för sällskapet vad som hänt i

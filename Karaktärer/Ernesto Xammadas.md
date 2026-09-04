@@ -18,14 +18,14 @@ Santavarres intressen, och sin egen ställning som deras förlängda arm i öst.
 ## Bakgrund
 
 Leder Santavarres expedition österut. Det var hans folk som köpte upp varenda
-häst, kamel och utrustningsdetalj i **[[Platser/Keiros]]** innan sällskapet
-hann dit. Om Santavarre själv, se **[[Lore/Thyrenia]]**.
+häst, kamel och utrustningsdetalj i **[[Platser/Keiros|Keiros]]** innan sällskapet
+hann dit. Om Santavarre själv, se **[[Lore/Thyrenia|Thyrenia]]**.
 
 ## Hans folk
 
-- **[[Karaktärer/Gughlug]]**: mingolsk krigare. Dödad av sällskapet i
+- **[[Karaktärer/Gughlug|Gughlug]]**: mingolsk krigare. Dödad av sällskapet i
   Keiros.
-- **[[Karaktärer/Danaahim]]**: chalidisk krigare. Död ute i öknen.
+- **[[Karaktärer/Danaahim|Danaahim]]**: chalidisk krigare. Död ute i öknen.
 
 ## Nuläge
 

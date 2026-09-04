@@ -5,8 +5,8 @@ tags:
   - morbejara
 ---
 
-Kriminell rival till **[[Karaktärer/Danifa Trabiri]]** i
-**[[Platser/Morbejara/Gamlebrygga]]**. Död.
+Kriminell rival till **[[Karaktärer/Danifa Trabiri|Danifa Trabiri]]** i
+**[[Platser/Morbejara/Gamlebrygga|Gamlebrygga]]**. Död.
 
 ## Drivkraft
 
@@ -23,8 +23,8 @@ Sällskapet fann bevisen för det i slutet.
 
 ## Vad som blev av henne
 
-Senare tog **[[Monsters/Tholam]]** henne.
+Senare tog **[[Monsters/Tholam|Tholam]]** henne.
 
-När hon hittades i grottsystemet under **[[Platser/Gamlesyn]]** var hon inte
+När hon hittades i grottsystemet under **[[Platser/Gamlesyn|Gamlesyn]]** var hon inte
 längre någon. Kroppen satt som en strumpdocka på en av Tholams tentakler, och
 det var Tholam som talade genom henne.

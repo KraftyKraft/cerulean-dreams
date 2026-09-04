@@ -26,10 +26,10 @@ Din skugga kan förråda dig. Slår den dig, tar den din essens och blir fri.
 
 ## Vägar in och ut
 
-De döda vandrar mot **[[Platser/Förgätmighamn]]** för att ge bort sina själar.
+De döda vandrar mot **[[Platser/Förgätmighamn|Förgätmighamn]]** för att ge bort sina själar.
 De som vägrar tynar bort till minnes- och viljelösa spöken.
 
-- **In:** genom **[[Platser/Spegellabyrinten]]**, genom fallet efter döden,
-  eller genom kyrkogården i **[[Platser/Hamz al-Lekhweb]]**.
-- **Ut:** med skeppet som kapten **[[Karaktärer/Veyth]]** för, när vinden
+- **In:** genom **[[Platser/Spegellabyrinten|Spegellabyrinten]]**, genom fallet efter döden,
+  eller genom kyrkogården i **[[Platser/Hamz al-Lekhweb|Hamz al-Lekhweb]]**.
+- **Ut:** med skeppet som kapten **[[Karaktärer/Veyth|Veyth]]** för, när vinden
   vänts.

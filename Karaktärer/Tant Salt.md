@@ -22,15 +22,15 @@ Att sprida häxtyg i staden och införskaffa sig fler magiska makter och ting.
 Tant Salt är en av de äldsta institutionerna i Gamlebrygga. Det finns många magiker i staden, men få som är så tillgängliga för den undre världen som Tant Salt.
 
 Sjömän söker hennes välsignelse inför långa resor. Det är klokt gjort. Se
-**[[Lore/Det Ceruliska innerhavet]]**.
+**[[Lore/Det Ceruliska innerhavet|Det Ceruliska innerhavet]]**.
 
-**[[Spelarkaraktärer/Valrina]]** bodde hos henne i hamnen innan hon försvann.
+**[[Spelarkaraktärer/Valrina|Valrina]]** bodde hos henne i hamnen innan hon försvann.
 Tant Salt var hennes värdinna och något av en mentor.
 
 ## Plats
 
 Tant Salt bereder sina häxkonster från sitt ominredda fiskeskjul i Gamlebrygga.
 
-Emellanåt säljer hon amuletter, drycker och annat vid [[Platser/Morbejara/Hermeskopeia]].
+Emellanåt säljer hon amuletter, drycker och annat vid [[Platser/Morbejara/Hermeskopeia|Hermeskopeia]].
 
 Ofta godtar hon alternativa betalningar om köparen saknar guld, en hårlock, en tjänst eller till och med ett finger kan vara godtagbart...

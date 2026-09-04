@@ -20,11 +20,11 @@ Husets tecken är en orm ringlad kring ett pergament. Deras officiella sändebud
 
 ## Karaktärer
 
-Huset leds sedan länge av matriarken **[[Karaktärer/Samira-Sarissos|Samira]]**.
+Huset leds sedan länge av matriarken **[[Karaktärer/Samira Sarissos|Samira]]**.
 
 ## Plats
 
-Sarissos residens ligger nära stadsporten i **[[Platser/Morbejara/Basileia]]**: ett stort, vitt trevåningshus omgivet av en medelhög stenmur och vanligtvis endast sparsamt bevakat. Rykten gör dock gällande att husets verkliga maktcentrum finns i katakomberna under byggnaden, där Sarissos sägs förvara sina hemligheter och rikedomar i svårtillgängliga valv.
+Sarissos residens ligger nära stadsporten i **[[Platser/Morbejara/Basileia|Basileia]]**: ett stort, vitt trevåningshus omgivet av en medelhög stenmur och vanligtvis endast sparsamt bevakat. Rykten gör dock gällande att husets verkliga maktcentrum finns i katakomberna under byggnaden, där Sarissos sägs förvara sina hemligheter och rikedomar i svårtillgängliga valv.
 
 ## Interaktioner
 

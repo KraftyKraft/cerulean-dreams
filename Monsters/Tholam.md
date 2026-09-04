@@ -14,7 +14,7 @@ En antropomorf fisk- och bläckfiskvarelse av enorm storlek. Havsanemoner
 växer ur golvet runt honom, och vattnet pulserar som om det andas.
 
 En urgammal entitet från djuphavet, äldre än Morbejara självt. Se
-**[[Lore/Det Ceruliska innerhavet]]**.
+**[[Lore/Det Ceruliska innerhavet|Det Ceruliska innerhavet]]**.
 
 ## Drivkraft
 
@@ -25,12 +25,12 @@ nära nog.
 
 Tholam etablerade en kult i staden utan att själv visa sig.
 
-**[[Karaktärer/Stormens Stämma]]** predikade för honom på gatorna och delade
-ut mat som skapade beroende. **[[Karaktärer/Gordun Brodda]]** bar han själv
+**[[Karaktärer/Stormens Stämma|Stormens Stämma]]** predikade för honom på gatorna och delade
+ut mat som skapade beroende. **[[Karaktärer/Gordun Brodda|Gordun Brodda]]** bar han själv
 som en strumpdocka på en tentakel, och talade genom henne.
 
 Själv höll han till i den innersta grottsalen i grottsystemet under
-**[[Platser/Gamlesyn]]**.
+**[[Platser/Gamlesyn|Gamlesyn]]**.
 
 ## Slutet
 

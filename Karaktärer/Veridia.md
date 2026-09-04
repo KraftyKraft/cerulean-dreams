@@ -15,14 +15,14 @@ En av hennes drivkrafter är naturligtvis en enorm kunskapstörst, men det finns
 
 ## Bakgrund
 
-Uppvuxen i en köpmansfamilj i [[Valdmark]], där hon tidigt visade sig vara ett underbarn. Studerar och undervisar numera vid universitetet i Morbejara, inom handel kring det ceruliska havet och internationella relationer.
+Uppvuxen i en köpmansfamilj i [[Lore/Valdmark|Valdmark]], där hon tidigt visade sig vara ett underbarn. Studerar och undervisar numera vid universitetet i Morbejara, inom handel kring det ceruliska havet och internationella relationer.
 
 ## Relationer
 
-Deltidsälskarinna med **[[Karaktärer/Lyssandra Phokaine]]**. En kväll på "I
+Deltidsälskarinna med **[[Karaktärer/Lyssandra Phokaine|Lyssandra Phokaine]]**. En kväll på "I
 pärlans sköte" avvisade hon henne, och Lyssandras bitterhet gör relationen
-svår. Samma kväll gick hon hem med **[[Spelarkaraktärer/Kol Dorenden]]**.
+svår. Samma kväll gick hon hem med **[[Spelarkaraktärer/Kol Dorenden|Kol Dorenden]]**.
 
 ## Plats
 
-Sitter ofta på baren på "I pärlans sköte" i [[Lapithos]].
+Sitter ofta på baren på "I pärlans sköte" i [[Platser/Morbejara/Lapithos|Lapithos]].

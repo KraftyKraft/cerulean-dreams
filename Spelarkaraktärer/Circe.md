@@ -5,14 +5,14 @@ tags:
   - decadent
 ---
 
-Prästinna till gudinnan **[[Lore/Thelema]]**. Spelad av Jonas under Valrina i
+Prästinna till gudinnan **[[Lore/Thelema|Thelema]]**. Spelad av Jonas under Valrina i
 skuggornas rike.
 
 ## Vad hon är
 
-Circe är **[[Spelarkaraktärer/Valrina]]s** spegelbild, animerad.
+Circe är **[[Spelarkaraktärer/Valrina|Valrina]]&#8203;s** spegelbild, animerad.
 
-Djupt inne i spegellabyrinten i **[[Platser/Skuggornas rike]]** passerade
+Djupt inne i spegellabyrinten i **[[Platser/Skuggornas rike|Skuggornas rike]]** passerade
 Valrina rad efter rad av frusna versioner av sig själv, de flesta bilder av
 hur hon dött. Till slut hittade hon en frommare version, klädd som en grekisk
 gudinna. Den animerade hon, och Circe steg ut ur spegeln.
@@ -39,8 +39,8 @@ Hon bär en **xiphos**, ett grekiskt kortsvärd.
 ## Bandet till Thelema
 
 Circe bär ett sympatiskt band till sin gudinna. Bandet kan offras, och hon
-gav det till **[[Karaktärer/Mordigal Skrivare]]** som betalning för att
-släppas in i **[[Platser/Förgätmighamn]]**.
+gav det till **[[Karaktärer/Mordigal Skrivare|Mordigal Skrivare]]** som betalning för att
+släppas in i **[[Platser/Förgätmighamn|Förgätmighamn]]**.
 
 ## Vad hon gjorde
 
@@ -50,4 +50,4 @@ stort kom och åt upp ljuset på himlen. Den lille skelett-krabaten Sol försvan
 
 Hon följde Valrina genom skuggornas rike, samlade en korg fingrar på de
 leriga fälten för att betala sig in i Förgätmighamn, och lämnade riket med
-**[[Karaktärer/Veyth]]** när vindarna vändes.
+**[[Karaktärer/Veyth|Veyth]]** när vindarna vändes.

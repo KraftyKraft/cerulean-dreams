@@ -17,10 +17,10 @@ Sitt hantverk. Labbet. Lärlingarna.
 ## Bakgrund
 
 Alkemist i de underjordiska laboratorierna under
-**[[Platser/Morbejara/Gamlebrygga]]**, och läromästare åt
-**[[Spelarkaraktärer/Omar Albarran]]**.
+**[[Platser/Morbejara/Gamlebrygga|Gamlebrygga]]**, och läromästare åt
+**[[Spelarkaraktärer/Omar Albarran|Omar Albarran]]**.
 
-**[[Spelarkaraktärer/Ötzi Fhjelmin]]** hotade och ströp honom nere i labbet.
+**[[Spelarkaraktärer/Ötzi Fhjelmin|Ötzi Fhjelmin]]** hotade och ströp honom nere i labbet.
 Han klarade sig.
 
 ## Plats

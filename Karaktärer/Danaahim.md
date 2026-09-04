@@ -6,7 +6,7 @@ tags:
   - Öst
 ---
 
-**Död.** Drunknade/spetsades utanför **[[Platser/Det svarta templet]]** när Sirena
+**Död.** Drunknade/spetsades utanför **[[Platser/Det svarta templet|Det svarta templet]]** när Sirena
 använde sin havsmagi mot honom och hans män.
 
 ## Kännetecken
@@ -16,15 +16,15 @@ med sylvassa klor på armen.
 
 ## Drivkraft
 
-Heder och hämnd. Han ville straffa sällskapet för **[[Karaktärer/Gughlug]]**s
+Heder och hämnd. Han ville straffa sällskapet för **[[Karaktärer/Gughlug|Gughlug]]**&#8203;s
 skull.
 
 ## Vad han gjorde
 
 Han hann ikapp sällskapet ute i öknen och tänkte döda dem allihop. Då höll
-**[[Spelarkaraktärer/Valrina]]** ett tal om krigarheder och om ödet i
+**[[Spelarkaraktärer/Valrina|Valrina]]** ett tal om krigarheder och om ödet i
 stjärnorna, som träffade honom rätt. Han valde envig framför blodbad, och hans
-bäste kämpe förlorade mot **[[Spelarkaraktärer/Pamphilos]]**.
+bäste kämpe förlorade mot **[[Spelarkaraktärer/Pamphilos|Pamphilos]]**.
 
 Sedan satte han igång en uttröttningskampanj istället: kamelberidna rövare i
 svarta kåpor som trakasserade sällskapet med bågar och spjut och gled undan som

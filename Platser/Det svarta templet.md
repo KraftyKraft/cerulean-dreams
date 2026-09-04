@@ -6,7 +6,7 @@ tags:
   - svarta-pyramidernas-land
 ---
 
-Ökentempel mellan [[Keiros]] och [[Hamz al-Lekhweb]], byggt av
+Ökentempel mellan [[Platser/Keiros|Keiros]] och [[Platser/Hamz al-Lekhweb|Hamz al-Lekhweb]], byggt av
 samma svarta sten som pyramiderna i **Hamz al-Lekhweb**. Templet finns inte
 längre: det sjönk ner i marken när spelarna lämnade det, och i dess ställe
 bildades en oas.
@@ -39,7 +39,7 @@ kartuscherna på väggarna förekommer fiskmänniskor, vilket visar att templets
 byggare kände till Ashash-Harooms folk.
 
 Under sarkofagen ledde en trappa ner till en underjordisk oas, och därifrån
-gick en slipstream hela vägen till **[[Platser/Undervattensriket]]**. Vid
+gick en slipstream hela vägen till **[[Platser/Undervattensriket|Undervattensriket]]**. Vid
 återkomsten sprutades resenärerna upp ur tempeltaket.
 
 ## Vad som hände med det

@@ -7,10 +7,10 @@ tags:
   - ceruliska-havet
 ---
 
-Det forna riket som tillhörde **[[Lore/Ashash-Haroom]]**, under
-**[[Lore/Det Ceruliska innerhavet]]**.
+Det forna riket som tillhörde **[[Lore/Ashash-Haroom|Ashash-Haroom]]**, under
+**[[Lore/Det Ceruliska innerhavet|Det Ceruliska innerhavet]]**.
 
-Riket nås via en underjordisk oas under **[[Platser/Det svarta templet]]** i
+Riket nås via en underjordisk oas under **[[Platser/Det svarta templet|Det svarta templet]]** i
 öknen. På vägen tillbaka skjuter en slipstream upp besökaren ur tempeltaket.
 
 ## Beskrivning
@@ -27,7 +27,7 @@ låg.
 
 ## Invånare
 
-Ashash-Harooms ättlingar: Sirena, Vespera, Anomea och Corax. Se [[Ashash-Harooms barn]].
+Ashash-Harooms ättlingar: Sirena, Vespera, Anomea och Corax. Se [[Karaktärer/Ashash-Harooms barn|Ashash-Harooms barn]].
 
 Harpspelande fiskmänniskor lever här.
 

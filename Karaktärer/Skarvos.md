@@ -16,7 +16,7 @@ annanstans.
 
 ## Bakgrund
 
-Han vaktade Ishaqs båt **Den Darrande Vinden** i **[[Platser/Morbejara/Gamlebrygga]]**, tills sällskapet mutade bort honom.
+Han vaktade Ishaqs båt **Den Darrande Vinden** i **[[Platser/Morbejara/Gamlebrygga|Gamlebrygga]]**, tills sällskapet mutade bort honom.
 Han försvann med en förmögenhet.
 
 ## Plats
