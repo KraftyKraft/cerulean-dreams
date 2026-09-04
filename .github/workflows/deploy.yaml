@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - pre-commit-hook
   workflow_dispatch:
 
 permissions:
@@ -53,7 +52,6 @@ jobs:
           path: public
 
   deploy:
-    if: github.ref == 'refs/heads/main'
     needs: build
     environment:
       name: github-pages
