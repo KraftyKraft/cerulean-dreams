@@ -10,9 +10,9 @@ Linux and macOS normally provide the required tools directly.
 
 ## Files
 
-- `format-wikilinks.sh` â€” main entry point and Git/file orchestration.
-- `format-wikilinks.awk` â€” Markdown text transformation and wikilink resolution.
-- `format-wikilinks.cmd` â€” Windows convenience wrapper for manually running
+- `format-wikilinks.sh` — main entry point and Git/file orchestration.
+- `format-wikilinks.awk` — Markdown text transformation and wikilink resolution.
+- `format-wikilinks.cmd` — Windows convenience wrapper for manually running
   the formatter from Command Prompt or PowerShell.
 
 The local pre-commit hook is stored separately in:
@@ -95,7 +95,7 @@ Resolution uses:
 For example:
 
 ```text
-KaraktÃ¤rer/Roland Corveaux.md
+Karaktärer/Roland Corveaux.md
 ```
 
 can be resolved from:
@@ -149,13 +149,13 @@ For example:
 ```markdown
 [[Roland Corveaux]]
 
-Roland met [[KaraktÃ¤rer/Roland Corveaux|Roland]] later that evening.
+Roland met [[Karaktärer/Roland Corveaux|Roland]] later that evening.
 ```
 
 becomes conceptually:
 
 ```markdown
-[[KaraktÃ¤rer/Roland Corveaux|Roland Corveaux]]
+[[Karaktärer/Roland Corveaux|Roland Corveaux]]
 
 Roland met Roland later that evening.
 ```

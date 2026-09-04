@@ -2,3 +2,4 @@
 *.awk text eol=lf
 .githooks/* text eol=lf
 *.cmd text eol=crlf
+*.md text eol=lf
