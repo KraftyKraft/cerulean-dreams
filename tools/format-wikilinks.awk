@@ -355,7 +355,7 @@ function format_dangling(payload, raw_target, alias, key) {
 }
 
 
-function format_payload(payload, pipe_at, raw_target, alias, canonical, name, chosen, matched_title, seen_key) {
+function format_payload(payload, pipe_at, raw_target, alias, canonical, name, display, matched_title, seen_key) {
     pipe_at = index(payload, "|")
 
     if (pipe_at) {
@@ -381,30 +381,28 @@ function format_payload(payload, pipe_at, raw_target, alias, canonical, name, ch
     seen_key = loose_key(canonical)
 
     if (seen_key in seen) {
-        return duplicate_display(raw_target, alias)
+        if (alias != "") {
+            return alias
+        }
+
+        if (matched_title != "") {
+            return matched_title
+        }
+
+        return name
     }
 
     seen[seen_key] = 1
 
-    if (!article_is_index[canonical] && name_count[name] == 1) {
-        chosen = name
-    } else {
-        chosen = canonical
-    }
-
     if (alias != "") {
-        return "[[" chosen "|" alias "]]"
+        display = alias
+    } else if (matched_title != "") {
+        display = matched_title
+    } else {
+        display = name
     }
 
-    if (matched_title != "") {
-        return "[[" chosen "|" matched_title "]]"
-    }
-
-    if (index(chosen, "/") && chosen ~ /[[:space:]]/) {
-        return "[[" chosen "|" name "]]"
-    }
-
-    return "[[" chosen "]]"
+    return "[[" canonical "|" display "]]"
 }
 
 
@@ -413,49 +411,11 @@ function needs_boundary(c) {
 }
 
 
-function process_strong(line, pos, open_at, close_rel, close_at, before, after, content, result) {
-    result = ""
-    open_at = pos
-    close_rel = index(substr(line, open_at + 2), "**")
-
-    if (!close_rel) {
-        return ""
-    }
-
-    close_at = open_at + close_rel + 1
-    before = ""
-
-    if (open_at > 1) {
-        before = substr(line, open_at - 1, 1)
-    }
-
-    after = ""
-
-    if (close_at + 2 <= length(line)) {
-        after = substr(line, close_at + 2, 1)
-    }
-
-    if (needs_boundary(before)) {
-        result = result ZWSP
-    }
-
-    content = substr(line, open_at, close_at - open_at + 2)
-    result = result content
-
-    if (needs_boundary(after)) {
-        result = result ZWSP
-    }
-
-    strong_end = close_at + 2
-
-    return result
-}
-
-
-function process_line(line, out, i, n, c, run, marker, rest, close_at, chunk_len, payload, strong, formatted, link_end, next_char) {
+function process_line(line, out, i, n, c, run, marker, rest, close_at, chunk_len, payload, formatted, link_end, next_char, in_strong, prev_char) {
     out = ""
     i = 1
     n = length(line)
+    in_strong = 0
 
     while (i <= n) {
         c = substr(line, i, 1)
@@ -482,6 +442,36 @@ function process_line(line, out, i, n, c, run, marker, rest, close_at, chunk_len
             break
         }
 
+        if (substr(line, i, 2) == "**") {
+            if (!in_strong) {
+                prev_char = ""
+
+                if (i > 1) {
+                    prev_char = substr(line, i - 1, 1)
+                }
+
+                if (needs_boundary(prev_char)) {
+                    out = out ZWSP
+                }
+
+                out = out "**"
+                in_strong = 1
+                i += 2
+                continue
+            } else {
+                next_char = substr(line, i + 2, 1)
+                out = out "**"
+
+                if (needs_boundary(next_char)) {
+                    out = out ZWSP
+                }
+
+                in_strong = 0
+                i += 2
+                continue
+            }
+        }
+
         if (substr(line, i, 2) == "[[" && (i == 1 || substr(line, i - 1, 1) != "!")) {
             rest = substr(line, i + 2)
             close_at = index(rest, "]]")
@@ -499,16 +489,6 @@ function process_line(line, out, i, n, c, run, marker, rest, close_at, chunk_len
                 }
 
                 i = link_end + 1
-                continue
-            }
-        }
-
-        if (substr(line, i, 2) == "**") {
-            strong = process_strong(line, i)
-
-            if (strong != "") {
-                out = out strong
-                i = strong_end
                 continue
             }
         }
