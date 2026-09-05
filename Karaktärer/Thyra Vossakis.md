@@ -23,8 +23,10 @@ Men hon är också lojal mot sina egna, de hon leder och de hon kallar vänner. 
 
 ## Bakgrund
 
-Arbetade sig upp genom Kadmeias led till gardet och vidare till kapten. Hennes och patriarken **Nikandros Kadmeias** yngsta dotter **Ismenes** vänskap går tillbaka till ungdomen, ett osannolikt band mellan en soldat som slogs sig till sin plats och en huvudmans dotter.
+Arbetade sig upp genom Kadmeias led till gardet och vidare till kapten. Hennes och patriarken **Nikandros Kadmeias** yngsta dotter **[[Karaktärer/Ismene Kadmeia|Ismenes]]** vänskap går tillbaka till ungdomen, ett osannolikt band mellan en soldat som slogs sig till sin plats och en huvudmans dotter.
+
+Under gängkravallerna vid Thermex tempel i Hermeskopeia lät hon publiken slita sönder sig själv och dansade genom det tillsammans med Ismene, och dödade utan urskillning. Samma natt visade det sig varför: hon står vid Ismenes sida i kammaren under Basileia, maskerad, en av officerarna i den kult som prövningen egentligen leder in i.
 
 ## Plats
 
-Att hitta i citadellet Kadmeia i **[[Platser/Morbejara/Basileia|Basileia]]**, oftast bland gardet snarare än i patriarkens sällskap.
+Står lättast att finna i vaktens kaserner, där hon arbetar varje dag. Hon finns också i citadellet Kadmeia i **[[Platser/Morbejara/Basileia|Basileia]]**.

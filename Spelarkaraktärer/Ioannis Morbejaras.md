@@ -25,7 +25,7 @@ tags:
 
 ## Origin och historia
 
-Civilised. Växte upp på gatan innan han värvades som vakt i Hus Kadmeia. Runt 25 år, en av de yngre i skvadronen.
+Civilised. Växte upp på gatan innan han värvades som vakt i Hus Kadmeia. Runt 20 år, en av de yngre i skvadronen.
 
 ## Utseende & personlighet
 

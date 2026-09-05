@@ -20,6 +20,10 @@ visa sitt ansikte i Gammelbrygga. Här finner man utstötta, förrädare
 och demontjänare – men kanske också stadens allra mest lukrativa
 möjligheter...
 
+## En kammare under en vaktbarack
+
+Någonstans finns det en kvadratisk sal med en lavabassäng och en offerplattform i mitten, vakad av stenstatyer av hyenor. Se **[[Monsters/Crocotta|Crocotta]]**. På denna plats hålls det enligt ryktena vålsamma ritualiserade dueler, till en kaotisk guds förnöjelse.
+
 ## Kanalerna under Basileia och Lapithos
 
 Under de finare kvarteren löper ett eget system av huggen sten: trånga, våta tunnlar där strömmen drar i benen och varje ljud ekar långt före och efter en. Nedgångarna är källargaller, flera av dem sedan länge uppbrutna.
