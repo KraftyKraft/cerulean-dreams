@@ -14,14 +14,14 @@ Den nuvarande eran inleddes efter revolutionen som störstade kejsaren.
 Kammarådet, med **Anastas Komnenaides** i spetsen, trädde till makten och har
 sedan dess styrt Morbejara.
 
-| År  | Händelse                                                                                             |                                            |
-| --- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| 1   | Revolutionen. Kejsardömet störtas, Anastas Komnenaides blir talesman.                                |                                            |
-| 13  | Dimman över Morbejara                                                                                |                                            |
-| 14  | Öppna strider mellan St. Bartholomeus-orden och Hus Sarissos                                         |                                            |
-| 14  | En kannibalistisk orgie äger rum på Kyros-ordens tempeltrappor. Kammarrådet fördömer [[Organisationer/Kyros-orden|Kyros-orden]] | En våg av kaos sveper över staden.         |
-| 14  | Tjurens dödskramper                                                                                  | Ismene Kadmeia kidnappas.                  |
-| 14  | Till den starkaste. Kravaller och oroligheter utbryter i Morbejara. Maten börjar sina.               |                                            |
-| 15  | Profeten i Gamlebrygga                                                                               |                                            |
-| 18  | Profit i östled börjar. [[Spelarkaraktärer/Valrina                                                   | Valrina kämpar sig igenom skuggornas rike. |
+| År | Händelse |
+| --- | --- |
+| 1 | Revolutionen. Kejsardömet störtas, Anastas Komnenaides blir talesman. |
+| 13 | Dimman över Morbejara |
+| 14 | Öppna strider mellan St. Bartholomeus-orden och Hus Sarissos |
+| 14 | Kannibalistisk orgie på Kyros-ordens tempeltrappor. Kammarrådet fördömer [[Organisationer/Kyros-orden|Kyros-orden]], kaos sprider sig. |
+| 14 | Tjurens dödskramper. Ismene Kadmeia kidnappas. |
+| 14 | Till den starkaste. Kravaller utbryter, maten sinar. |
+| 15 | Profeten i Gamlebrygga |
+| 18 | Profit i östled börjar. [[Spelarkaraktärer/Valrina|Valrina]] kämpar sig igenom skuggornas rike. |
 
