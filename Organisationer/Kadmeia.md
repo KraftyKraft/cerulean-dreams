@@ -14,7 +14,7 @@ Huset tar sitt namn från sitt stamsäte, det gamla citadellet Kadmeia. Citadell
 
 Endast en mindre, utvald kärna — gardet — genomgår **prövningen** och räknas som formella medlemmar av huset. Merparten av vaktstyrkan i Morbejara består istället av vanligt folk som helt enkelt tar anställning hos huset, utan att någonsin bli en del av det. De bär husets tecken på sina uniformer men svär ingen ed till Kadmeia-namnet.
 
-Vad prövningen faktiskt innebär höll länge på att stanna en legend bland meniga vakter. Se **[[Karaktärer/Ismene Kadmeia|Ismene Kadmeia]]**.
+Vad prövningen faktiskt innebär verkar har förändrats efter den senaste kaotiska tiden i Morbejara. Se **[[Karaktärer/Ismene Kadmeia|Ismene Kadmeia]]**.
 
 ## Kännetecken
 
