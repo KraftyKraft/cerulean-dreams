@@ -2,8 +2,6 @@ name: Check wikilinks
 
 on:
   pull_request:
-    paths:
-      - "**.md"
 
 jobs:
   check-links:
