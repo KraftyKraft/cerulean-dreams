@@ -31,5 +31,5 @@ De som vägrar tynar bort till minnes- och viljelösa spöken.
 
 - **In:** genom **[[Platser/Skuggornas rike/Spegellabyrinten|Spegellabyrinten]]**, genom fallet efter döden,
   eller genom kyrkogården i **[[Platser/De Svarta Pyramidernas land/Hamz al-Lekhweb|Hamz al-Lekhweb]]**.
-- **Ut:** med skeppet som kapten **[[Karaktärer/Veyth|Veyth]]** för, när vinden
+- **Ut:** med skeppet som kapten **[[Karaktärer/Skuggornas rike/Veyth|Veyth]]** för, när vinden
   vänts.

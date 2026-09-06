@@ -29,7 +29,7 @@ staplade längs väggarna. Med sig hade han två hjälpredor, **Faruq** och
 
 Han äger båten **Den Darrande Vinden**, byggd åt den santavarrianska marinen, kapad av
 pirater och sedan köpt av Ishaq. Den låg förtöjd i Gamlebrygga och bevakades av
-**[[Karaktärer/Skarvos|Skarvos]]**. Loggboken dokumenterar resor över haven i jakt på
+**[[Karaktärer/Morbejara/Skarvos|Skarvos]]**. Loggboken dokumenterar resor över haven i jakt på
 ockulta fenomen, med tjusig handstil och en lustigt excentrisk ton.
 
 ## Experiment

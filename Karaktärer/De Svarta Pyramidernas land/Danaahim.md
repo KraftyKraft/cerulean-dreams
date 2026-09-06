@@ -16,7 +16,7 @@ med sylvassa klor på armen.
 
 ## Drivkraft
 
-Heder och hämnd. Han ville straffa sällskapet för **[[Karaktärer/Gughlug|Gughlug]]**&#8203;s
+Heder och hämnd. Han ville straffa sällskapet för **[[Karaktärer/De Svarta Pyramidernas land/Gughlug|Gughlug]]**&#8203;s
 skull.
 
 ## Vad han gjorde

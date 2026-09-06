@@ -15,7 +15,7 @@ ring runt hjärtat, med blixtar som löper därifrån över hela kroppen.
 
 ## Drivkraft
 
-Strid, och lojalitet mot **[[Karaktärer/Ernesto Xammadas|Ernesto Xammadas]]** och hans folk.
+Strid, och lojalitet mot **[[Karaktärer/De Svarta Pyramidernas land/Ernesto Xammadas|Ernesto Xammadas]]** och hans folk.
 
 ## Vad han gjorde
 

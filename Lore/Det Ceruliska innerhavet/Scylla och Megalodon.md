@@ -46,4 +46,4 @@ Misslyckas den slukar Megalodon rösterna.
 > *"Ni har människans röst, jag har havets. Tillsammans kan vi väva dem till
 > något som når ner till Stumma Djupet."*
 >
-> — Vespera, se **[[Karaktärer/Ashash-Harooms barn|Ashash-Harooms barn]]**
+> — Vespera, se **[[Karaktärer/Undervattensriket/Ashash-Harooms barn|Ashash-Harooms barn]]**

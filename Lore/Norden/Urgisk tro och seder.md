@@ -33,7 +33,7 @@ Att inte kunna begrava sina döda ordentligt är en stor skam.
 
 Väverskor av öden. De sitter vid vägskäl och prövar dem som passerar, inte av
 grymhet utan av natur. De kan märka resande med ödet och skänka föremål av
-kraft, som Nornans tråd. Se **[[Karaktärer/Nornan|Nornan]]**.
+kraft, som Nornans tråd. Se **[[Karaktärer/Morbejara/Nornan|Nornan]]**.
 
 ## Klaner och heder
 

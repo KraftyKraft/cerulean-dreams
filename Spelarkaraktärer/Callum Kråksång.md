@@ -54,7 +54,7 @@ korrumperade kontraktet.
 
 ## Relationer
 
-[[Karaktärer/Danifa Trabiri|Danifa Trabiri]]. Callum löser ärenden åt henne.
+[[Karaktärer/Morbejara/Danifa Trabiri|Danifa Trabiri]]. Callum löser ärenden åt henne.
 
-[[Karaktärer/Tant Salt|Tant Salt]]. Callum är skyldig henne en tjänst, och hon har en
+[[Karaktärer/Morbejara/Tant Salt|Tant Salt]]. Callum är skyldig henne en tjänst, och hon har en
 lock av hans hår.

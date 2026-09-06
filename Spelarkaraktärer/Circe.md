@@ -39,7 +39,7 @@ Hon bär en **xiphos**, ett grekiskt kortsvärd.
 ## Bandet till Thelema
 
 Circe bär ett sympatiskt band till sin gudinna. Bandet kan offras, och hon
-gav det till **[[Karaktärer/Mordigal Skrivare|Mordigal Skrivare]]** som betalning för att
+gav det till **[[Karaktärer/Skuggornas rike/Mordigal Skrivare|Mordigal Skrivare]]** som betalning för att
 släppas in i **[[Platser/Skuggornas rike/Förgätmighamn|Förgätmighamn]]**.
 
 ## Vad hon gjorde
@@ -50,4 +50,4 @@ stort kom och åt upp ljuset på himlen. Den lille skelett-krabaten Sol försvan
 
 Hon följde Valrina genom skuggornas rike, samlade en korg fingrar på de
 leriga fälten för att betala sig in i Förgätmighamn, och lämnade riket med
-**[[Karaktärer/Veyth|Veyth]]** när vindarna vändes.
+**[[Karaktärer/Skuggornas rike/Veyth|Veyth]]** när vindarna vändes.

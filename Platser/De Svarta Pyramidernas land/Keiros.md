@@ -26,7 +26,7 @@ Santavarre har köpt upp all utrustning och alla hästar inför sin expedition.
 Marknaderna är länsade och bara usla åsnor står kvar i stallen.
 
 I ett av stallen hittades **Kallax** upphängd, dödad av
-**[[Karaktärer/Gughlug|Gughlug]]**.
+**[[Karaktärer/De Svarta Pyramidernas land/Gughlug|Gughlug]]**.
 
 ## Invånare
 

@@ -5,7 +5,7 @@ tags:
   - morbejara
 ---
 
-Kriminell rival till **[[Karaktärer/Danifa Trabiri|Danifa Trabiri]]** i
+Kriminell rival till **[[Karaktärer/Morbejara/Danifa Trabiri|Danifa Trabiri]]** i
 **[[Platser/Morbejara/Gamlebrygga|Gamlebrygga]]**. Död.
 
 ## Drivkraft

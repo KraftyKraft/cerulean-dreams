@@ -10,7 +10,7 @@ De gamla bryggorna knarrar under fötterna. Ruttet trä, salt och gammal
 död. Dimman lägger sig tätast här. Folk håller sig inomhus efter
 mörkrets inbrott.
 
-Stadens fattigaste och råaste distrikt. **[[Karaktärer/Danifa Trabiri|Danifa Trabiri]]** driver
+Stadens fattigaste och råaste distrikt. **[[Karaktärer/Morbejara/Danifa Trabiri|Danifa Trabiri]]** driver
 Guldkanten, en av stadens mest kända bordeller, härifrån.
 
 **[[Platser/Morbejara/Gamlebrygga/Tre Segel|Tre Segel]]** är distriktets kvarvarande enkla krog — stamgäster är

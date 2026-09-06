@@ -23,7 +23,7 @@ skydda riket, men var för gammal och skröplig för att lyckas.
 ## Ättlingarna
 
 Fyra barn, som sällskapet räddade ur Scyllas fångenskap: Sirena, Vespera,
-Anomea och Corax. Se **[[Karaktärer/Ashash-Harooms barn|Ashash-Harooms barn]]**.
+Anomea och Corax. Se **[[Karaktärer/Undervattensriket/Ashash-Harooms barn|Ashash-Harooms barn]]**.
 
 Riket lever vidare utan sin härskare. Framtiden för
 **[[Platser/De Svarta Pyramidernas land/Undervattensriket|Undervattensriket]]** är oklar, men i ättlingarnas goda händer ser riket nog fram emot en ny guldålder.

@@ -23,9 +23,9 @@ hann dit. Om Santavarre själv, se **[[Lore/Thyrenia|Thyrenia]]**.
 
 ## Hans folk
 
-- **[[Karaktärer/Gughlug|Gughlug]]**: mingolsk krigare. Dödad av sällskapet i
+- **[[Karaktärer/De Svarta Pyramidernas land/Gughlug|Gughlug]]**: mingolsk krigare. Dödad av sällskapet i
   Keiros.
-- **[[Karaktärer/Danaahim|Danaahim]]**: chalidisk krigare. Död ute i öknen.
+- **[[Karaktärer/De Svarta Pyramidernas land/Danaahim|Danaahim]]**: chalidisk krigare. Död ute i öknen.
 
 ## Nuläge
 

@@ -18,8 +18,8 @@ akolyter i säkerhet framför allt annat.
 
 ## Bakgrund
 
-Ledde tillsammans med **[[Karaktärer/Ismene Kadmeia|Ismene Kadmeia]]** och
-kapten **[[Karaktärer/Thyra Vossakis|Thyra Vossakis]]** en betald matutdelning
+Ledde tillsammans med **[[Karaktärer/Morbejara/Ismene Kadmeia|Ismene Kadmeia]]** och
+kapten **[[Karaktärer/Morbejara/Thyra Vossakis|Thyra Vossakis]]** en betald matutdelning
 utanför sitt tempel som slutade i upplopp och brand. Flydde med sina akolyter
 när templet brann.
 

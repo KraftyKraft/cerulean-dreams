@@ -19,7 +19,7 @@ Uppvuxen i en köpmansfamilj i [[Lore/Valdmark|Valdmark]], där hon tidigt visad
 
 ## Relationer
 
-Deltidsälskarinna med **[[Karaktärer/Lyssandra Phokaine|Lyssandra Phokaine]]**. En kväll på "I
+Deltidsälskarinna med **[[Karaktärer/Morbejara/Lyssandra Phokaine|Lyssandra Phokaine]]**. En kväll på "I
 pärlans sköte" avvisade hon henne, och Lyssandras bitterhet gör relationen
 svår. Samma kväll gick hon hem med **[[Spelarkaraktärer/Kol Dorenden|Kol Dorenden]]**.
 

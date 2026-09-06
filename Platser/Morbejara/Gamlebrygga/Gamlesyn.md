@@ -34,9 +34,9 @@ täckt av havsanemoner, och i bassängerna simmade Djupets Barn.
 
 **[[Monsters/Tholam|Tholam]]** höll till i den innersta grottsalen.
 
-**[[Karaktärer/Stormens Stämma|Stormens Stämma]]** hade sin bas här och styrde tornet genom poolen.
+**[[Karaktärer/Morbejara/Stormens Stämma|Stormens Stämma]]** hade sin bas här och styrde tornet genom poolen.
 
-**[[Karaktärer/Gordun Brodda|Gordun Brodda]]** fanns kvar här bara som ett skal. Tholam bar
+**[[Karaktärer/Morbejara/Gordun Brodda|Gordun Brodda]]** fanns kvar här bara som ett skal. Tholam bar
 henne som en strumpdocka på en av sina tentakler.
 
 ## Vad som hände med det

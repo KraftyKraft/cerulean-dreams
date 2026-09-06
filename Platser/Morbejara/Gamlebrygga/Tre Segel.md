@@ -12,7 +12,7 @@ Gordun Broddas sista kvarvarande krog i
 **[[Platser/Morbejara/Gamlebrygga|Gamlebrygga]]**, och distriktets enda enkla värdshus.
 
 Bara fattiga råskinn och fiskare håller till här. Alla med pengar går till
-något av **[[Karaktärer/Danifa Trabiri|Danifa Trabiri]]**&#8203;s ställen.
+något av **[[Karaktärer/Morbejara/Danifa Trabiri|Danifa Trabiri]]**&#8203;s ställen.
 
 ## Invånare
 
@@ -28,7 +28,7 @@ Våghuggarna.
 
 ## Våghuggarna
 
-Gänget hade historiskt arbetat för **[[Karaktärer/Gordun Brodda|Gordun Brodda]]**, på ett
+Gänget hade historiskt arbetat för **[[Karaktärer/Morbejara/Gordun Brodda|Gordun Brodda]]**, på ett
 halvt självständigt manér. De kapade en last som tillhörde
 **Danifa Trabiri** och försvann sedan, och det var därför de
 satt på Tre Segel när sällskapet kom dit.

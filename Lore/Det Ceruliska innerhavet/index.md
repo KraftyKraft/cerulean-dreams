@@ -34,5 +34,5 @@ härskare vars rike sällskapet besökte. Hans ättlingar lever fortfarande, se
 
 Havet ger och tar. Det är likgiltigt men inte passivt.
 
-Sjömän i Morbejara söker **[[Karaktärer/Tant Salt|Tant Salt]]** och hennes välsignelse
+Sjömän i Morbejara söker **[[Karaktärer/Morbejara/Tant Salt|Tant Salt]]** och hennes välsignelse
 inför långa resor. Det är klokt gjort.

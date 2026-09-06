@@ -27,7 +27,7 @@ låg.
 
 ## Invånare
 
-Ashash-Harooms ättlingar: Sirena, Vespera, Anomea och Corax. Se [[Karaktärer/Ashash-Harooms barn|Ashash-Harooms barn]].
+Ashash-Harooms ättlingar: Sirena, Vespera, Anomea och Corax. Se [[Karaktärer/Undervattensriket/Ashash-Harooms barn|Ashash-Harooms barn]].
 
 Harpspelande fiskmänniskor lever här.
 
