@@ -5,7 +5,7 @@ tags:
   - undervattensriket
 ---
 
-Fyra barn till den urgamle kungen **[[Lore/Ashash-Haroom|Ashash-Haroom]]**, räddade ur
+Fyra barn till den urgamle kungen **[[Lore/Det Ceruliska innerhavet/Ashash-Haroom|Ashash-Haroom]]**, räddade ur
 Scyllas fångenskap i **[[Platser/Undervattensriket|Undervattensriket]]**.
 
 ## Sirena

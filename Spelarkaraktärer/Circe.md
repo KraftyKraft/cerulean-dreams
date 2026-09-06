@@ -5,7 +5,7 @@ tags:
   - decadent
 ---
 
-Prästinna till gudinnan **[[Lore/Thelema|Thelema]]**. Spelad av Jonas under Valrina i
+Prästinna till gudinnan **[[Lore/Gudar/Thelema|Thelema]]**. Spelad av Jonas under Valrina i
 skuggornas rike.
 
 ## Vad hon är

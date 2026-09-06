@@ -17,7 +17,7 @@ riket.
 Med sin vilja höll han många farliga krafter i schack. När han åldrades och
 försvagades vittrade de banden sönder.
 
-Han försökte frammana **[[Lore/Scylla och Megalodon|Megalodon]]** för att
+Han försökte frammana **[[Lore/Det Ceruliska innerhavet/Scylla och Megalodon|Megalodon]]** för att
 skydda riket, men var för gammal och skröplig för att lyckas.
 
 ## Ättlingarna

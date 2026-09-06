@@ -13,7 +13,7 @@ krafter som människor inte förstår.
 Urgamla entiteter lever i djuphavet. **[[Monsters/Tholam|Tholam]]** är en av dem,
 en överflödets och hungerns gud. Djupfolket är hans.
 
-**[[Lore/Scylla och Megalodon|Scylla och Megalodon]]** är andra djuphavsväsen av kosmisk dignitet,
+**[[Lore/Det Ceruliska innerhavet/Scylla och Megalodon|Scylla och Megalodon]]** är andra djuphavsväsen av kosmisk dignitet,
 Djupets Tvillingar. Scylla står för hunger och förtäring, Megalodon likaså.
 
 ## Fiskfolk
@@ -26,7 +26,7 @@ Stormens Stämma var en djuping som infiltrerade Gamlebrygga.
 ## Undervattensrikena
 
 Under havet finns civilisationer med korallbyggda tempel och kungadömen med
-egna politiska konflikter. **[[Lore/Ashash-Haroom|Ashash-Haroom]]** var en urgammal
+egna politiska konflikter. **[[Lore/Det Ceruliska innerhavet/Ashash-Haroom|Ashash-Haroom]]** var en urgammal
 härskare vars rike sällskapet besökte. Hans ättlingar lever fortfarande, se
 **[[Platser/Undervattensriket|Undervattensriket]]**.
 

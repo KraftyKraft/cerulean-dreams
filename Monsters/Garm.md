@@ -7,7 +7,7 @@ tags:
 ---
 
 Helhunden. Vaktaren vid Gnipahellir, Hels port. Se
-**[[Lore/Urgisk tro och seder|Urgisk tro och seder]]**.
+**[[Lore/Norden/Urgisk tro och seder|Urgisk tro och seder]]**.
 
 ## Vad han är
 

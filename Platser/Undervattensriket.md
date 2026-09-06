@@ -7,7 +7,7 @@ tags:
   - ceruliska-havet
 ---
 
-Det forna riket som tillhörde **[[Lore/Ashash-Haroom|Ashash-Haroom]]**, under
+Det forna riket som tillhörde **[[Lore/Det Ceruliska innerhavet/Ashash-Haroom|Ashash-Haroom]]**, under
 **[[Lore/Det Ceruliska innerhavet|Det Ceruliska innerhavet]]**.
 
 Riket nås via en underjordisk oas under **[[Platser/Det svarta templet|Det svarta templet]]** i
@@ -22,7 +22,7 @@ Ovanför skimrar vattenytan blått. Alla ljud har reverb och delay.
 ## Speciella platser
 
 Ett vakttorn av korall. Ett koralltempel som påminner om ett grekiskt tempel.
-En pelarallé, där sjunkhålet efter **[[Lore/Scylla och Megalodon|Scylla]]**
+En pelarallé, där sjunkhålet efter **[[Lore/Det Ceruliska innerhavet/Scylla och Megalodon|Scylla]]**
 låg.
 
 ## Invånare
