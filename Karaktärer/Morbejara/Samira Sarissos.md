@@ -8,7 +8,7 @@ tags:
 ## Kännetecken
 
 Lång, ståtlig och nästan svävande i sina rörelser framstår den immakulöst
-klädda ledaren för hus **[[Organisationer/Sarissos|Sarissos]]** som en nästan överjordlig varelse. 
+klädda ledaren för hus **[[Organisationer/Morbejara/Sarissos|Sarissos]]** som en nästan överjordlig varelse. 
 Hennes hypnotiska ögon och silkesrena, väsande röst ger ett intryck av att hon
 redan vet hemligheter om dig du inte ens känner till själv.
 

@@ -15,7 +15,7 @@ alla andra lag-inriktade gudar vilka inte förtjänar någon dyrkan.
 Ordens tro kretsar kring en hederscodex och rigidia, inrutade levnadsregler. Kättare och kriminella avrättas rituellt genom hängning. Mycket av samfundets ritualer involverar eld och ett genomgående tema är att
 hylla ljuset och bekämpa mörkret.
 
-Kort efter att ha upprättat en diplomatisk förläggning i Morbejara drabbades delegationen av ett svårt bakslag då två av Ordens tre ledare dödades under en bankett vid handelshuset **[[Organisationer/Sarissos|Sarissos]]** residens. Samtidigt spreds rykten i staden om att St Bartholomeus tjänare inte var de rättfärdiga beskyddare de utgav sig för att vara, utan utländska ränksmidare med egna ambitioner.
+Kort efter att ha upprättat en diplomatisk förläggning i Morbejara drabbades delegationen av ett svårt bakslag då två av Ordens tre ledare dödades under en bankett vid handelshuset **[[Organisationer/Morbejara/Sarissos|Sarissos]]** residens. Samtidigt spreds rykten i staden om att St Bartholomeus tjänare inte var de rättfärdiga beskyddare de utgav sig för att vara, utan utländska ränksmidare med egna ambitioner.
 
 St Bartholomeus Heliga Orden söker alla tillfällen att möta kaotiska krafter i rättfärdig strid. I Morbejara vill de även stärka sin legitimitet, sprida sin tro samt utöka Auronas politiska och ekonomiska inflytande i staden.
 

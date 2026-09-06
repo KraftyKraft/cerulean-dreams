@@ -20,7 +20,7 @@ De som håller fast vid Kyros kallas numera bara lojalister. De flesta var aldri
 
 De klär sig som vem som helst och rör sig med en spänd, jagad vaksamhet. Tecknet bärs dolt: en tjurhornsamulett under kläderna, en ristning på insidan av en ring. Vapnen är knivar och klubbor, sällan något riktigt.
 
-Sensommaren det fjortonde året förde en grupp lojalister bort **Ismene Kadmeia** mitt på ljusa dagen på **[[Platser/Morbejara/Lapithos|Lapithos]]** och höll henne i ett vattentorn utanför stadsmuren. En grupp meniga vakter ur **[[Organisationer/Kadmeia|Hus Kadmeia]]** spårade dem genom **[[Platser/Morbejara/Staden-under-staden|Staden-under-staden]]** och fick ut henne levande.
+Sensommaren det fjortonde året förde en grupp lojalister bort **Ismene Kadmeia** mitt på ljusa dagen på **[[Platser/Morbejara/Lapithos|Lapithos]]** och höll henne i ett vattentorn utanför stadsmuren. En grupp meniga vakter ur **[[Organisationer/Morbejara/Kadmeia|Hus Kadmeia]]** spårade dem genom **[[Platser/Morbejara/Staden-under-staden|Staden-under-staden]]** och fick ut henne levande.
 
 ## Kännetecken
 
