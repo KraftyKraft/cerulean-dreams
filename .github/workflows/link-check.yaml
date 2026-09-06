@@ -3,6 +3,9 @@ name: Check wikilinks
 on:
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   check-links:
     runs-on: ubuntu-latest
