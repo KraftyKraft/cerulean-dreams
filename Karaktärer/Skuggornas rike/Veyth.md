@@ -2,7 +2,7 @@
 title: Veyth
 tags:
   - npc
-  - Skuggornas rike
+  - skuggornas-rike
 ---
 
 Kapten på skeppet *Månens Glans*.

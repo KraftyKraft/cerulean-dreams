@@ -3,7 +3,7 @@ title: Gamlesyn
 tags:
   - plats
   - ruin
-  - Morbejara
+  - morbejara
 ---
 
 Ett litet snedstympat torn i utkanten av

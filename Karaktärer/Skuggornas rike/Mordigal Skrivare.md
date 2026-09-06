@@ -2,7 +2,7 @@
 title: Mordigal Skrivare
 tags:
   - npc
-  - Skuggornas rike
+  - skuggornas-rike
 ---
 
 ## Kännetecken

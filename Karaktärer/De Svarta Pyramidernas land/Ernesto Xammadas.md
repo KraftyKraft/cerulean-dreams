@@ -2,8 +2,8 @@
 title: Ernesto Xammadas
 tags:
   - npc
-  - Santavarre
-  - Öst
+  - santavarre
+  - svarta-pyramidernas-land
 ---
 
 ## Kännetecken

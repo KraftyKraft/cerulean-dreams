@@ -3,7 +3,7 @@ title: Hamz al-Lekhweb
 tags:
   - plats
   - stad
-  - Öst
+  - svarta-pyramidernas-land
 ---
 
 Sultanstad i utkanten av **[[Lore/De Svarta Pyramidernas land|De Svarta Pyramidernas land]]**, sju dagars

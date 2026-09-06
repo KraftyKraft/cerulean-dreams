@@ -2,7 +2,7 @@
 title: Varg
 tags:
   - npc
-  - Skuggornas rike
+  - skuggornas-rike
 ---
 
 Den vita jätten. Hans riktiga namn är Hector, men han döpte sig själv till

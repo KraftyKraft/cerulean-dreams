@@ -2,7 +2,7 @@
 title: Öknens varelser
 tags:
   - lore
-  - Öst
+  - svarta-pyramidernas-land
 ---
 
 Öknen är hem till många varelser med egna agendor. Ibland kan de visa sig för uttorkade och utmattade resande.

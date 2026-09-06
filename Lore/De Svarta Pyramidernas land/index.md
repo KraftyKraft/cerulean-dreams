@@ -3,7 +3,7 @@ title: De Svarta Pyramidernas land
 tags:
   - lore
   - region
-  - Öst
+  - svarta-pyramidernas-land
 ---
 
 Regionen **Askaria**, långt österut bortom öknen från **[[Platser/De Svarta Pyramidernas land/Keiros|Keiros]]**.

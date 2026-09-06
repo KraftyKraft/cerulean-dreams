@@ -2,8 +2,8 @@
 title: Danaahim
 tags:
   - npc
-  - Santavarre
-  - Öst
+  - santavarre
+  - svarta-pyramidernas-land
 ---
 
 **Död.** Drunknade/spetsades utanför **[[Platser/De Svarta Pyramidernas land/Det svarta templet|Det svarta templet]]** när Sirena

@@ -3,7 +3,6 @@ title: Keiros
 tags:
   - plats
   - stad
-  - Öst
   - svarta-pyramidernas-land
 ---
 

@@ -2,7 +2,7 @@
 title: Hallkatla
 tags:
   - npc
-  - Urgarike
+  - urgarike
 ---
 
 ## Kännetecken

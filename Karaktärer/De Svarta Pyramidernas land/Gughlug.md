@@ -2,8 +2,8 @@
 title: Gughlug
 tags:
   - npc
-  - Santavarre
-  - Öst
+  - santavarre
+  - svarta-pyramidernas-land
 ---
 
 **Död.** Dödad av sällskapet i **[[Platser/De Svarta Pyramidernas land/Keiros|Keiros]]**.
