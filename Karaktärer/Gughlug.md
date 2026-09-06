@@ -6,7 +6,7 @@ tags:
   - Öst
 ---
 
-**Död.** Dödad av sällskapet i **[[Platser/Keiros|Keiros]]**.
+**Död.** Dödad av sällskapet i **[[Platser/De Svarta Pyramidernas land/Keiros|Keiros]]**.
 
 ## Kännetecken
 

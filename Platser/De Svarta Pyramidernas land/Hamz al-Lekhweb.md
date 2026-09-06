@@ -7,7 +7,7 @@ tags:
 ---
 
 Sultanstad i utkanten av **[[Lore/De Svarta Pyramidernas land|De Svarta Pyramidernas land]]**, sju dagars
-ritt över öknen från **[[Platser/Keiros|Keiros]]**. Målet för resan österut.
+ritt över öknen från **[[Platser/De Svarta Pyramidernas land/Keiros|Keiros]]**. Målet för resan österut.
 
 ## Beskrivning
 

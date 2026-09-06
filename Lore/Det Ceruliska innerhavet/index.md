@@ -28,7 +28,7 @@ Stormens Stämma var en djuping som infiltrerade Gamlebrygga.
 Under havet finns civilisationer med korallbyggda tempel och kungadömen med
 egna politiska konflikter. **[[Lore/Det Ceruliska innerhavet/Ashash-Haroom|Ashash-Haroom]]** var en urgammal
 härskare vars rike sällskapet besökte. Hans ättlingar lever fortfarande, se
-**[[Platser/Undervattensriket|Undervattensriket]]**.
+**[[Platser/De Svarta Pyramidernas land/Undervattensriket|Undervattensriket]]**.
 
 ## Havets karaktär
 

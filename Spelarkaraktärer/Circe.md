@@ -40,7 +40,7 @@ Hon bär en **xiphos**, ett grekiskt kortsvärd.
 
 Circe bär ett sympatiskt band till sin gudinna. Bandet kan offras, och hon
 gav det till **[[Karaktärer/Mordigal Skrivare|Mordigal Skrivare]]** som betalning för att
-släppas in i **[[Platser/Förgätmighamn|Förgätmighamn]]**.
+släppas in i **[[Platser/Skuggornas rike/Förgätmighamn|Förgätmighamn]]**.
 
 ## Vad hon gjorde
 

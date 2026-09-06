@@ -21,7 +21,7 @@ Morbejara.
 Ökendagg, ett livgivande destillat av ökensippan från regionen Askaria, är en
 viktig importvara.
 
-Produktionen har störts någonstans i **[[Platser/Hamz al-Lekhweb|Hamz al-Lekhweb]]**, och sällskapet har fått i uppdrag att lösa det av [[Karaktärer/Danifa Trabiri|Danifa Trabiri]].
+Produktionen har störts någonstans i **[[Platser/De Svarta Pyramidernas land/Hamz al-Lekhweb|Hamz al-Lekhweb]]**, och sällskapet har fått i uppdrag att lösa det av [[Karaktärer/Danifa Trabiri|Danifa Trabiri]].
 
 ## Urgiker
 

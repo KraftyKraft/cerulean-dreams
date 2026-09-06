@@ -8,7 +8,7 @@ tags:
 ## Kännetecken
 
 En enorm figur som vuxit fram ur stadsporten i
-**[[Platser/Förgätmighamn|Förgätmighamn]]**. Vingarna är fastmurade i stadsmuren och
+**[[Platser/Skuggornas rike/Förgätmighamn|Förgätmighamn]]**. Vingarna är fastmurade i stadsmuren och
 överkroppen hänger ut över vägen. Det skalliga huvudet sveper fram och
 tillbaka såsom hos en gam.
 

@@ -30,7 +30,7 @@ ut mat som skapade beroende. **[[Karaktärer/Gordun Brodda|Gordun Brodda]]** bar
 som en strumpdocka på en tentakel, och talade genom henne.
 
 Själv höll han till i den innersta grottsalen i grottsystemet under
-**[[Platser/Gamlesyn|Gamlesyn]]**.
+**[[Platser/Morbejara/Gamlebrygga/Gamlesyn|Gamlesyn]]**.
 
 ## Slutet
 

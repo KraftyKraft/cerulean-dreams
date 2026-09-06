@@ -10,7 +10,7 @@ tags:
 
 En äcklig liten hamnby med fem bryggor och spångar, ruttna små hus och ett
 litet fyrtorn. Byn ligger på Förgätmighed, hedarna som täcker låglandet vid
-foten av **[[Platser/Svartkam|Svartkam]]**.
+foten av **[[Platser/Skuggornas rike/Svartkam|Svartkam]]**.
 
 Vinden blåser hårt från väst, och tvingar alla skepp in i hamnen. Ingen kan kryssa ut.
 

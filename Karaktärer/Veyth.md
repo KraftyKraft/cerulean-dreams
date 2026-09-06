@@ -14,7 +14,7 @@ Sitt uppdrag: att leverera laster med döda till
 
 ## Bakgrund
 
-Veyth lade till i **[[Platser/Förgätmighamn|Förgätmighamn]]** medan sällskapet var där, och
+Veyth lade till i **[[Platser/Skuggornas rike/Förgätmighamn|Förgätmighamn]]** medan sällskapet var där, och
 förklarade vindproblemet. Stormlika vindar för alla skepp in mot hamnen, och
 ingen kan kryssa mot dem.
 

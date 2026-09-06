@@ -25,6 +25,6 @@ Sällskapet fann bevisen för det i slutet.
 
 Senare tog **[[Monsters/Tholam|Tholam]]** henne.
 
-När hon hittades i grottsystemet under **[[Platser/Gamlesyn|Gamlesyn]]** var hon inte
+När hon hittades i grottsystemet under **[[Platser/Morbejara/Gamlebrygga/Gamlesyn|Gamlesyn]]** var hon inte
 längre någon. Kroppen satt som en strumpdocka på en av Tholams tentakler, och
 det var Tholam som talade genom henne.

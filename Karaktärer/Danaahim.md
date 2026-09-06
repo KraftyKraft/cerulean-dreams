@@ -6,7 +6,7 @@ tags:
   - Öst
 ---
 
-**Död.** Drunknade/spetsades utanför **[[Platser/Det svarta templet|Det svarta templet]]** när Sirena
+**Död.** Drunknade/spetsades utanför **[[Platser/De Svarta Pyramidernas land/Det svarta templet|Det svarta templet]]** när Sirena
 använde sin havsmagi mot honom och hans män.
 
 ## Kännetecken

@@ -10,7 +10,7 @@ tags:
 Det forna riket som tillhörde **[[Lore/Det Ceruliska innerhavet/Ashash-Haroom|Ashash-Haroom]]**, under
 **[[Lore/Det Ceruliska innerhavet|Det Ceruliska innerhavet]]**.
 
-Riket nås via en underjordisk oas under **[[Platser/Det svarta templet|Det svarta templet]]** i
+Riket nås via en underjordisk oas under **[[Platser/De Svarta Pyramidernas land/Det svarta templet|Det svarta templet]]** i
 öknen. På vägen tillbaka skjuter en slipstream upp besökaren ur tempeltaket.
 
 ## Beskrivning

@@ -23,7 +23,7 @@ Tholams vilja. Inget eget.
 Hon predikade på **[[Platser/Morbejara/Hermeskopeia|Hermeskopeia]]** och i hamndistrikten,
 och delade ut mat och dryck till dem som lyssnade. Gåvorna skapade beroende.
 
-Hon höll till i **[[Platser/Gamlesyn|Gamlesyn]]** och styrde tornet därifrån. Genom
+Hon höll till i **[[Platser/Morbejara/Gamlebrygga/Gamlesyn|Gamlesyn]]** och styrde tornet därifrån. Genom
 poolen i en av källarkamrarna tog hon sig fram och tillbaka mellan tornet och
 fiskfolket i havet.
 
