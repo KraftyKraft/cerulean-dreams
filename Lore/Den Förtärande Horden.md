@@ -1,7 +1,6 @@
 ---
 title: Den Förtärande Horden
 tags:
-  - lore
   - demon
 ---
 

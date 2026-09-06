@@ -1,7 +1,6 @@
 ---
 title: Råttornas kung
 tags:
-  - plats
   - krog
   - morbejara
 ---

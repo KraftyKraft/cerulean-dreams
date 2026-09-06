@@ -1,13 +1,11 @@
 ---
 title: Garm
 tags:
-  - monster
-  - lore
   - urgik
 ---
 
 Helhunden. Vaktaren vid Gnipahellir, Hels port. Se
-**[[Lore/Urgisk tro och seder|Urgisk tro och seder]]**.
+**[[Lore/Norden/Urgisk tro och seder|Urgisk tro och seder]]**.
 
 ## Vad han är
 
@@ -18,7 +16,7 @@ Aggressiv, men inte ondskefull. Förvirrad.
 
 ## Vad som gick fel
 
-**[[Karaktärer/Gordun Brodda|Gordun Brodda]]**&#8203;s korrumperade mynt tvingade porten vid
+**[[Karaktärer/Morbejara/Gordun Brodda|Gordun Brodda]]**&#8203;s korrumperade mynt tvingade porten vid
 Gnipahellir att stå öppen under dimman.
 
 Garms instinkt är att blockera porten. Med den öppen hamnade han på fel sida
@@ -28,7 +26,7 @@ desperat, inte elak.
 ## Hur det slutade
 
 Sällskapet lockade honom och band honom med kedjan de fått av
-**[[Karaktärer/Nornan|Nornan]]** mot ett träd uppe i bergspasset, och lämnade honom
+**[[Karaktärer/Morbejara/Nornan|Nornan]]** mot ett träd uppe i bergspasset, och lämnade honom
 där.
 
 Myntet togs bort kort därefter, och porten vände rätt igen.

@@ -1,7 +1,6 @@
 ---
 title: Anaximandros
 tags:
-  - spelarkaraktär
   - decadent
 ---
 

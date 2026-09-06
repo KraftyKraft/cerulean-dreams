@@ -1,7 +1,6 @@
 ---
 title: Valrina
 tags:
-  - spelarkaraktär
   - decadent
 ---
 
@@ -79,5 +78,5 @@ Rusted harpoon, razor whip, satyrflöjt, noble clothes.
 
 ## Relationer
 
-**[[Karaktärer/Tant Salt|Tant Salt]]**. Valrina bodde hos henne i hamnen innan hon
+**[[Karaktärer/Morbejara/Tant Salt|Tant Salt]]**. Valrina bodde hos henne i hamnen innan hon
 försvann.

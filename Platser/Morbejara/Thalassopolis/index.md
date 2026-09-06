@@ -1,7 +1,6 @@
 ---
 title: Thalassopolis
 tags:
-  - plats
   - distrikt
   - morbejara
 ---

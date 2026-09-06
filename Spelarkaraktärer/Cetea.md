@@ -1,7 +1,6 @@
 ---
 title: Cetea
 tags:
-  - spelarkaraktär
   - decadent
 ---
 

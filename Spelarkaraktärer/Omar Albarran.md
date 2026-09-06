@@ -1,7 +1,6 @@
 ---
 title: Omar Albarran
 tags:
-  - spelarkaraktär
   - civilised
 ---
 
@@ -27,9 +26,9 @@ tags:
 
 Civilised. Santavarrisk, något till åren kommen. Har arbetat en tid i
 de alkemiska laboratorierna under Gamlebrygga som lärling under
-[[Karaktärer/Ramoz|Ramoz]]. Anlitas ibland av [[Karaktärer/Danifa Trabiri|Danifa Trabiri]].
+[[Karaktärer/Morbejara/Ramoz|Ramoz]]. Anlitas ibland av [[Karaktärer/Morbejara/Danifa Trabiri|Danifa Trabiri]].
 
-Lämnade nyligen Morbejara tillsammans med [[Karaktärer/Ishaq Abenzar|Ishaq Abenzar]] för nya
+Lämnade nyligen Morbejara tillsammans med [[Karaktärer/Morbejara/Ishaq Abenzar|Ishaq Abenzar]] för nya
 äventyr på andra håll. En paus, inte ett avslut.
 
 ## Bakgrunder

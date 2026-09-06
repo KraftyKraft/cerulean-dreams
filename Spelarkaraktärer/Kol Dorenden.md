@@ -1,7 +1,6 @@
 ---
 title: Kol Dorenëdem
 tags:
-  - spelarkaraktär
   - civilised
 ---
 

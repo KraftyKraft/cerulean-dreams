@@ -1,7 +1,6 @@
 ---
 title: Ioannis Morbejaras
 tags:
-  - spelarkaraktär
   - vakt
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: Tidslinje
-tags:
-  - lore
 ---
 
 Åren räknas inte från en fast nollpunkt. Istället namnges
@@ -26,7 +24,7 @@ Dimman över Morbejara.
 
 Öppna strider mellan St. Bartholomeus-orden och Hus Sarissos.
 
-Kannibalistisk orgie på Kyros-ordens tempeltrappor. Kammarrådet fördömer [[Organisationer/Kyros-orden|Kyros-orden]], kaos sprider sig.
+Kannibalistisk orgie på Kyros-ordens tempeltrappor. Kammarrådet fördömer [[Organisationer/Morbejara/Kyros-orden|Kyros-orden]], kaos sprider sig.
 
 Tjurens dödskramper. Ismene Kadmeia kidnappas.
 

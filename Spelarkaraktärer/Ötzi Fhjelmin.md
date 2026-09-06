@@ -1,7 +1,6 @@
 ---
 title: Ötzi Fhjelmin
 tags:
-  - spelarkaraktär
   - decadent
 ---
 
@@ -35,7 +34,7 @@ Cetea, och han följde med gruppen till Gamlebrygga för att spåra en
 adress kopplad till misstänkta santavarrianer.
 
 I ett illegalt alkemistlabb under bryggorna tog Ötzi struptag på
-alkemisten [[Karaktärer/Ramoz|Ramoz]] när denne började tala om kommunikation med
+alkemisten [[Karaktärer/Morbejara/Ramoz|Ramoz]] när denne började tala om kommunikation med
 icke-materiella väsen. Något i orden fick Ötzi att reagera med rått
 våld. Labbets vakter stormade in. Ötzi högg ner flera av dem innan han
 föll, stucken av dussintals dolkar.
@@ -61,6 +60,6 @@ Warhammer, Bone Bow, Hide Armor.
 
 [[Spelarkaraktärer/Kol Dorenden|Kol Dorenden]] — annan urgisk krigare i Morbejara.
 
-[[Karaktärer/Danifa Trabiri|Danifa Trabiri]] — frigav honom ur fångenskap som förstärkning.
+[[Karaktärer/Morbejara/Danifa Trabiri|Danifa Trabiri]] — frigav honom ur fångenskap som förstärkning.
 
 [[Spelarkaraktärer/Cetea|Cetea]] — stred vid hans sida i Gamlebrygga.

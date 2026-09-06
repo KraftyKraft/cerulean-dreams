@@ -1,7 +1,6 @@
 ---
 title: Crocotta
 tags:
-  - monster
   - morbejara
 ---
 Fyra hörnstatyer av hyenor, stående kring en offerplattform i en ritualkammare

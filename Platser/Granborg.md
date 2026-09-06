@@ -1,8 +1,7 @@
 ---
 title: Granborg
 tags:
-  - plats
-  - Urgarike
+  - urgarike
   - stad
 ---
 
