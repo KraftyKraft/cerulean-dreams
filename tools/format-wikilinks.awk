@@ -81,6 +81,31 @@ function casefold(s) {
 }
 
 
+function normalize_tag(s) {
+    s = trim(s)
+
+    # Remove optional YAML quotes.
+    if ((substr(s, 1, 1) == "\"" && substr(s, length(s), 1) == "\"") ||
+        (substr(s, 1, 1) == "'" && substr(s, length(s), 1) == "'")) {
+        s = substr(s, 2, length(s) - 2)
+    }
+
+    s = casefold(s)
+
+    # Remove common Swedish leading articles.
+    sub(/^(den|det|de|en|ett)([[:space:]_-]+|$)/, "", s)
+
+    # Normalize all separators/punctuation to kebab-case.
+    gsub(/[^[:alnum:]åäö]+/, "-", s)
+
+    # Remove leading/trailing separators.
+    sub(/^-+/, "", s)
+    sub(/-+$/, "", s)
+
+    return s
+}
+
+
 function normalize_target(s) {
     s = trim(s)
     gsub(/\\/, "/", s)
@@ -540,12 +565,58 @@ function detect_fence(line, s, c, n) {
     }
 
     if (in_frontmatter) {
-        print line
-
         if (plain == "---" || plain == "...") {
             in_frontmatter = 0
+            in_tags = 0
+            print line
+            next
         }
 
+        # Singular tag field:
+        #
+        # tag: Det stora templet
+        #
+        if (plain ~ /^[[:space:]]*tag:[[:space:]]*/) {
+            prefix = line
+            sub(/tag:.*/, "tag: ", prefix)
+
+            tag = plain
+            sub(/^[[:space:]]*tag:[[:space:]]*/, "", tag)
+
+            print prefix normalize_tag(tag)
+            next
+        }
+
+        # Start of a standard YAML tags list:
+        #
+        # tags:
+        #     - Det stora templet
+        #
+        if (plain ~ /^[[:space:]]*tags:[[:space:]]*$/) {
+            in_tags = 1
+            print line
+            next
+        }
+
+        if (in_tags) {
+            if (plain ~ /^[[:space:]]*-[[:space:]]*/) {
+                prefix = line
+                sub(/-[[:space:]]*.*/, "- ", prefix)
+
+                tag = plain
+                sub(/^[[:space:]]*-[[:space:]]*/, "", tag)
+
+                print prefix normalize_tag(tag)
+                next
+            }
+
+            # The first non-empty, non-list line ends the tags block.
+            if (plain !~ /^[[:space:]]*$/) {
+                in_tags = 0
+            }
+        }
+
+        print line
         next
     }
 
