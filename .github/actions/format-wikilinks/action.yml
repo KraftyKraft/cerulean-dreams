@@ -1,0 +1,29 @@
+name: Format wikilinks
+description: Run tools/format-wikilinks.sh and report whether it changed anything
+
+inputs:
+  args:
+    description: Arguments passed through to tools/format-wikilinks.sh
+    required: true
+
+outputs:
+  changed:
+    description: "true if the formatter modified any tracked Markdown file"
+    value: ${{ steps.diff.outputs.changed }}
+
+runs:
+  using: composite
+  steps:
+    - name: Run formatter
+      shell: bash
+      run: ./tools/format-wikilinks.sh ${{ inputs.args }}
+
+    - name: Check for changes
+      id: diff
+      shell: bash
+      run: |
+        if git diff --quiet -- '*.md'; then
+          echo "changed=false" >> "$GITHUB_OUTPUT"
+        else
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+        fi
