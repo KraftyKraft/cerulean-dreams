@@ -1,7 +1,6 @@
 ---
 title: De Svarta Pyramidernas land
 tags:
-  - lore
   - region
   - svarta-pyramidernas-land
 ---

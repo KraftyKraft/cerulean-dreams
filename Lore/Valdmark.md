@@ -1,7 +1,6 @@
 ---
 title: Valdmark
 tags:
-  - lore
   - region
 ---
 

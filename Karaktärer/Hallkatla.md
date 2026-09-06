@@ -1,7 +1,6 @@
 ---
 title: Hallkatla
 tags:
-  - npc
   - urgarike
 ---
 

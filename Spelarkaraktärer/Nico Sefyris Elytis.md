@@ -1,7 +1,6 @@
 ---
 title: Nico Sefyris Elytis
 tags:
-  - spelarkaraktär
   - civilised
 ---
 

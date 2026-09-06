@@ -1,7 +1,6 @@
 ---
 title: Staden-under-staden
 tags:
-    - plats
     - distrikt
     - morbejara
 ---

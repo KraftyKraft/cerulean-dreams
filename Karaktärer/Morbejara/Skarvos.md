@@ -1,7 +1,6 @@
 ---
 title: Skarvos
 tags:
-  - npc
   - morbejara
 ---
 

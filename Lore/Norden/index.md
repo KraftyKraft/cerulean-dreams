@@ -1,7 +1,6 @@
 ---
 title: Norden
 tags:
-  - lore
   - region
   - urgik
 ---

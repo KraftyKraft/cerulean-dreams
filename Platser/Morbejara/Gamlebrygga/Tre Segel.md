@@ -1,7 +1,6 @@
 ---
 title: Tre Segel
 tags:
-  - plats
   - krog
   - morbejara
 ---

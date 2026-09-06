@@ -1,7 +1,6 @@
 ---
 title: Lapithos
 tags:
-    - plats
     - distrikt
     - morbejara
 ---

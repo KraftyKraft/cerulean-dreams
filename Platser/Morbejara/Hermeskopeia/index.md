@@ -1,7 +1,6 @@
 ---
 title: Hermeskopeia
 tags:
-    - plats
     - distrikt
     - morbejara
 ---

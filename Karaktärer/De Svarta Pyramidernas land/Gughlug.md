@@ -1,7 +1,6 @@
 ---
 title: Gughlug
 tags:
-  - npc
   - santavarre
   - svarta-pyramidernas-land
 ---

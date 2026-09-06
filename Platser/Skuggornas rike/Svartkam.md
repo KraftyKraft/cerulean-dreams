@@ -1,7 +1,6 @@
 ---
 title: Svartkam
 tags:
-  - plats
   - naturplats
   - skuggornas-rike
 ---

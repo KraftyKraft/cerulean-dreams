@@ -1,7 +1,6 @@
 ---
 title: Varg
 tags:
-  - npc
   - skuggornas-rike
 ---
 

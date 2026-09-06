@@ -1,7 +1,6 @@
 ---
 title: Det svarta templet
 tags:
-  - plats
   - ruin
   - svarta-pyramidernas-land
 ---

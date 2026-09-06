@@ -1,7 +1,6 @@
 ---
 title: Förgätmighamn
 tags:
-  - plats
   - by
   - skuggornas-rike
 ---

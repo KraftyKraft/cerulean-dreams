@@ -1,7 +1,6 @@
 ---
 title: Ergol
 tags:
-  - lore
   - gud
 ---
 

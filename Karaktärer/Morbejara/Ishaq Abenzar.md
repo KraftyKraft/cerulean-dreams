@@ -1,7 +1,6 @@
 ---
 title: Ishaq Abenzar
 tags:
-  - npc
   - santavarre
   - morbejara
 ---

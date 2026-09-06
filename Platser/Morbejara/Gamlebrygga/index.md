@@ -1,7 +1,6 @@
 ---
 title: Gamlebrygga
 tags:
-    - plats
     - distrikt
     - morbejara
 ---

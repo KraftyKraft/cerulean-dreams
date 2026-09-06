@@ -1,7 +1,6 @@
 ---
 title: Stormens Stämma
 tags:
-  - npc
   - morbejara
 ---
 

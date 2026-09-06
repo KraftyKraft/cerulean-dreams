@@ -1,9 +1,8 @@
 ---
 title: Tholam
 tags:
-  - monster
-  - djuphavet
   - morbejara
+  - ceruliska-havet
 ---
 
 Djupets herre. Överflödets gud.

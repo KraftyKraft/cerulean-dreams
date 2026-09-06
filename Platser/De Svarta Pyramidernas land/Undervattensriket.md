@@ -1,7 +1,6 @@
 ---
 title: Undervattensriket
 tags:
-  - plats
   - region
   - svarta-pyramidernas-land
   - ceruliska-havet

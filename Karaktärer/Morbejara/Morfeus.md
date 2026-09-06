@@ -1,7 +1,6 @@
 ---
 title: Morfeus
 tags:
-  - npc
   - morbejara
 ---
 

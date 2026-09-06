@@ -1,7 +1,6 @@
 ---
 title: Ernesto Xammadas
 tags:
-  - npc
   - santavarre
   - svarta-pyramidernas-land
 ---

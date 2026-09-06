@@ -1,7 +1,6 @@
 ---
 title: Hamz al-Lekhweb
 tags:
-  - plats
   - stad
   - svarta-pyramidernas-land
 ---

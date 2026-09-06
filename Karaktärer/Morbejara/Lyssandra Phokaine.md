@@ -1,7 +1,6 @@
 ---
 title: Lyssandra Phokaine
 tags:
-  - npc
   - morbejara
 ---
 

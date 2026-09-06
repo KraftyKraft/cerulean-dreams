@@ -1,7 +1,6 @@
 ---
 title: Veyth
 tags:
-  - npc
   - skuggornas-rike
 ---
 

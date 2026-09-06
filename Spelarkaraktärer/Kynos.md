@@ -1,7 +1,6 @@
 ---
 title: Kynos
 tags:
-  - spelarkaraktär
   - vakt
   - stub
 ---

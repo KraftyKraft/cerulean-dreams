@@ -1,7 +1,6 @@
 ---
 title: Ashash-Harooms barn
 tags:
-  - npc
   - undervattensriket
 ---
 

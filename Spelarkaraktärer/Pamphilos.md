@@ -1,7 +1,6 @@
 ---
 title: Pamphilos
 tags:
-  - spelarkaraktär
   - civilised
 ---
 

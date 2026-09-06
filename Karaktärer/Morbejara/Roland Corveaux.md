@@ -1,7 +1,6 @@
 ---
 title: Roland Corveaux
 tags:
-  - npc
   - morbejara
 ---
 

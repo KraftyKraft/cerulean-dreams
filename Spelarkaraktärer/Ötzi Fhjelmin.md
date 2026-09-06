@@ -1,7 +1,6 @@
 ---
 title: Ötzi Fhjelmin
 tags:
-  - spelarkaraktär
   - decadent
 ---
 

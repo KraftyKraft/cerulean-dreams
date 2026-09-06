@@ -1,7 +1,6 @@
 ---
 title: Öknens varelser
 tags:
-  - lore
   - svarta-pyramidernas-land
 ---
 

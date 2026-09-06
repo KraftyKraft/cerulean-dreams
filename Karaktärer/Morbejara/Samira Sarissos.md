@@ -1,7 +1,6 @@
 ---
 title: Samira Sarissos
 tags:
-  - npc
   - morbejara
 ---
 

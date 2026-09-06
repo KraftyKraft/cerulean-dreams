@@ -1,7 +1,5 @@
 ---
 title: Tidslinje
-tags:
-  - lore
 ---
 
 Åren räknas inte från en fast nollpunkt. Istället namnges

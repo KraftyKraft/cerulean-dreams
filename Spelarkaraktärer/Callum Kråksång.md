@@ -1,7 +1,6 @@
 ---
 title: Callum Kråksång
 tags:
-  - spelarkaraktär
   - civilised
 ---
 

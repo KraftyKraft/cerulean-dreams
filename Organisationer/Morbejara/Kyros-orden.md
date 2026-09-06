@@ -1,7 +1,6 @@
 ---
 title: Kyros-orden
 tags:
-    - organisation
     - kult
     - morbejara
 ---

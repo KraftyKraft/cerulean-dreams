@@ -1,7 +1,6 @@
 ---
 title: Gordun Brodda
 tags:
-  - npc
   - morbejara
 ---
 

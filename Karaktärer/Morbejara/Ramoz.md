@@ -1,7 +1,6 @@
 ---
 title: Ramoz
 tags:
-  - npc
   - morbejara
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Omar Albarran
 tags:
-  - spelarkaraktär
   - civilised
 ---
 

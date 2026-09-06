@@ -1,7 +1,6 @@
 ---
 title: Leonardo, Maurice och Wanda
 tags:
-  - npc
   - undervattensriket
 ---
 

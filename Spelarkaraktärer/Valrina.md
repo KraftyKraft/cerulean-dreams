@@ -1,7 +1,6 @@
 ---
 title: Valrina
 tags:
-  - spelarkaraktär
   - decadent
 ---
 

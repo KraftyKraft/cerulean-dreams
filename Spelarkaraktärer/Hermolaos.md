@@ -1,7 +1,6 @@
 ---
 title: Hermolaos
 tags:
-  - spelarkaraktär
   - vakt
 ---
 

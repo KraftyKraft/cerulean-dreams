@@ -1,7 +1,6 @@
 ---
 title: Morbejara
 tags:
-  - plats
   - stad
   - thyrenia
   - ceruliska-havet

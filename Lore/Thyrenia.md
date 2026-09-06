@@ -1,7 +1,6 @@
 ---
 title: Thyrenia
 tags:
-  - lore
   - nation
 ---
 

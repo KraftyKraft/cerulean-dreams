@@ -1,7 +1,6 @@
 ---
 title: St Bartholomeus Heliga Orden
 tags:
-    - organisation
     - morbejara
 ---
 

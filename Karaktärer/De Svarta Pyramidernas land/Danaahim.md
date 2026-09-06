@@ -1,7 +1,6 @@
 ---
 title: Danaahim
 tags:
-  - npc
   - santavarre
   - svarta-pyramidernas-land
 ---

@@ -1,7 +1,6 @@
 ---
 title: Danifa Trabiri
 tags:
-  - npc
   - morbejara
 ---
 

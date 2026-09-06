@@ -1,7 +1,6 @@
 ---
 title: Handelshuset Kadmeia
 tags:
-    - organisation
     - handelshus
     - morbejara
 ---

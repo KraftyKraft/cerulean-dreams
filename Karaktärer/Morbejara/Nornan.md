@@ -1,7 +1,6 @@
 ---
 title: Nornan
 tags:
-  - npc
   - morbejara
 ---
 

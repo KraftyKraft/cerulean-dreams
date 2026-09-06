@@ -1,7 +1,6 @@
 ---
 title: Thyra Vossakis
 tags:
-  - npc
   - morbejara
 ---
 

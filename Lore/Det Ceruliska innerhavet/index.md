@@ -1,8 +1,7 @@
 ---
 title: Det Ceruliska innerhavet
 tags:
-  - lore
-  - hav
+  - ceruliska-havet
 ---
 
 Havet gammalt, farligt och befolkat av

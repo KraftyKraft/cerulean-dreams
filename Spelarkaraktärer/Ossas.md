@@ -1,7 +1,6 @@
 ---
 title: Ossas
 tags:
-  - spelarkaraktär
   - vakt
   - stub
 ---

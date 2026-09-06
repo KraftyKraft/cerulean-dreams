@@ -1,7 +1,6 @@
 ---
 title: Tant Salt
 tags:
-  - npc
   - morbejara
 ---
 

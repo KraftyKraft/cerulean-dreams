@@ -1,8 +1,6 @@
 ---
 title: Scylla och Megalodon
 tags:
-  - monster
-  - lore
   - undervattensriket
 ---
 

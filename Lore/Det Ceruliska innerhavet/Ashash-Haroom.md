@@ -1,7 +1,6 @@
 ---
 title: Ashash-Haroom
 tags:
-  - lore
   - härskare
   - undervattensriket
 ---

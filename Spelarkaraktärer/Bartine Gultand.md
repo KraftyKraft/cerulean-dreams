@@ -1,7 +1,6 @@
 ---
 title: Bartine Gultand
 tags:
-  - spelarkaraktär
   - decadent
 ---
 

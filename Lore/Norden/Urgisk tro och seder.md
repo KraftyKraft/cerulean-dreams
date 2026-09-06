@@ -1,7 +1,6 @@
 ---
 title: Urgisk tro och seder
 tags:
-  - lore
   - urgik
 ---
 

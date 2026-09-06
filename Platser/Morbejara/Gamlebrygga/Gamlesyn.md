@@ -1,7 +1,6 @@
 ---
 title: Gamlesyn
 tags:
-  - plats
   - ruin
   - morbejara
 ---

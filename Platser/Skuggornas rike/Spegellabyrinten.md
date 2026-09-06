@@ -1,7 +1,6 @@
 ---
 title: Spegellabyrinten
 tags:
-  - plats
   - skuggornas-rike
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Thelema
 tags:
-  - lore
   - gud
 ---
 

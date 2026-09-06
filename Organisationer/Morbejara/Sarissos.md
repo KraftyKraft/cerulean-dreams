@@ -1,7 +1,6 @@
 ---
 title: Handelshuset Sarissos
 tags:
-    - organisation
     - handelshus
     - morbejara
 ---

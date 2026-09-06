@@ -1,7 +1,6 @@
 ---
 title: Veridia
 tags:
-  - npc
   - morbejara
 ---
 

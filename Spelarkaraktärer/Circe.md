@@ -1,7 +1,6 @@
 ---
 title: Circe
 tags:
-  - spelarkaraktär
   - decadent
 ---
 

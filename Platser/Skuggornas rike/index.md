@@ -1,7 +1,6 @@
 ---
 title: Skuggornas rike
 tags:
-  - plats
   - region
   - skuggornas-rike
 ---

@@ -1,8 +1,6 @@
 ---
 title: Garm
 tags:
-  - monster
-  - lore
   - urgik
 ---
 
