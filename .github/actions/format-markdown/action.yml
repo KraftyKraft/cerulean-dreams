@@ -1,0 +1,14 @@
+name: Format Markdown
+description: Run tools/format-wikilinks.sh
+
+inputs:
+  args:
+    description: Arguments passed through to tools/format-wikilinks.sh
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Run formatter
+      shell: bash
+      run: ./tools/format-wikilinks.sh ${{ inputs.args }}
