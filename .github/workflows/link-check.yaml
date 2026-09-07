@@ -4,7 +4,7 @@ on:
   pull_request:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   check-links:
@@ -12,20 +12,20 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
+          ref: ${{ github.event.pull_request.head.ref }}
           fetch-depth: 0
 
-      - name: Check Markdown formatting
+      - name: Format Markdown
         id: format
         uses: ./.github/actions/format-wikilinks
         with:
-          args: --changed ${{ github.event.pull_request.base.sha }} ${{ github.sha }}
+          args: --changed ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }}
 
-      - name: Report formatting issues
+      - name: Commit formatting changes
         if: steps.format.outputs.changed == 'true'
         run: |
-          echo "::error::Wikilinks are not normalized. Run ./tools/format-wikilinks.sh --staged (or --all) locally and commit the result."
-          git diff --name-only -- '*.md' | while IFS= read -r file; do
-            echo "::error file=$file::This file needs wikilink formatting. Run tools/format-wikilinks.sh locally and commit the change."
-          done
-          git diff -- '*.md'
-          exit 1
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.md'
+          git commit -m "Normalize Markdown"
+          git push
