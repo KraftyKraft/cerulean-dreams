@@ -1,4 +1,4 @@
-name: Format wikilinks
+name: Format Markdown
 description: Run tools/format-wikilinks.sh
 
 inputs:

@@ -31,7 +31,7 @@ jobs:
             echo "args=--changed ${{ github.event.before }} ${{ github.sha }}" >> "$GITHUB_OUTPUT"
           fi
       - name: Format Markdown
-        uses: ./.github/actions/format-wikilinks
+        uses: ./.github/actions/format-markdown
         with:
           args: ${{ steps.format-args.outputs.args }}
       - name: Commit formatting changes
