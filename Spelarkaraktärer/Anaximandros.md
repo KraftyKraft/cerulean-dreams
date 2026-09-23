@@ -38,5 +38,5 @@ Maul, Cestus, Razor Whip, Medium armor (+2).
 
 ## Anaximandros i nutid
 
-Sedan stölden av [[Solkronan]] är Anaximandros besatt av den demon som
+Sedan stölden av [[Lore/Solkronan|Solkronan]] är Anaximandros besatt av den demon som
 släpptes lös under staden.

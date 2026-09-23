@@ -19,9 +19,9 @@ honom framåt, och Garuk räknar med att själv ha något att vinna på det.
 
 Exakt var Cassian står i kejsarhusets släktled är oklart. Han dök upp i
 Morbejara sommaren år 14, samtidigt som hus
-**[[Organisationer/Morbejara/Sarissos|Sarissos]]** bjöd ut **[[Solkronan]]** till försäljning.
+**[[Organisationer/Morbejara/Sarissos|Sarissos]]** bjöd ut **[[Lore/Solkronan|Solkronan]]** till försäljning.
 
-I katakomberna under staden ville Cassian och Garuk ha klotet som Solkronan visat sig vara. De fick det inte. **[[Anaximandros]]** tog Cassian som gisslan, och när Sarissos folk kom ikapp skar Anaximandros upp hans hals och lät blodet rinna över klotet. Kejserligt blod var vad klotet krävde.
+I katakomberna under staden ville Cassian och Garuk ha klotet som Solkronan visat sig vara. De fick det inte. **[[Spelarkaraktärer/Anaximandros|Anaximandros]]** tog Cassian som gisslan, och när Sarissos folk kom ikapp skar Anaximandros upp hans hals och lät blodet rinna över klotet. Kejserligt blod var vad klotet krävde.
 
 ## Plats
 

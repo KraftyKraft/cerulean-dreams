@@ -22,7 +22,7 @@ Dimman över Morbejara.
 
 ### År 14
 
-Stölden av [[Solkronan]].
+Stölden av [[Lore/Solkronan|Solkronan]].
 
 Öppna strider mellan St. Bartholomeus-orden och Hus Sarissos.
 

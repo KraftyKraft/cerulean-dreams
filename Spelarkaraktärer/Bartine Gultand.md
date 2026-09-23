@@ -58,4 +58,4 @@ Maul, Hunting Knife, 3 doser läkedryck.
 ## Relationer
 
 **Trimus.** Gammal ungdomsvän i Hermeskopeia. Fick Barts kappa och en kyss
-efter stölden av [[Solkronan]].
+efter stölden av [[Lore/Solkronan|Solkronan]].
