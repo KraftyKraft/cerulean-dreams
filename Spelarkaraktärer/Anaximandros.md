@@ -15,7 +15,7 @@ tags:
 
 | Stat | Värde |
 | --- | --- |
-| Level | 1 |
+| Level | 2 |
 | Alignment | Neutral |
 | Doom die | 1d6 |
 | DMG | 1d8 |
@@ -35,3 +35,8 @@ Pit-fighter, Vicious, Scout.
 ## Utrustning
 
 Maul, Cestus, Razor Whip, Medium armor (+2).
+
+## Anaximandros i nutid
+
+Sedan stölden av [[Solkronan]] är Anaximandros besatt av den demon som
+släpptes lös under staden.

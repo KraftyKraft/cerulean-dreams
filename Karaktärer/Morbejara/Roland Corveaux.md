@@ -28,7 +28,7 @@ Han ser ordens närvaro i staden som ett heligt uppdrag och kommer aldrig levand
 
 Roland Corveaux anlände till Morbejara som militär representant för Sankt Bartholomeusorden tillsammans med riddaren Adric och syster Beatrice.
 
-Under en bankett på hus Sarissos egendom dödades både Aldric och Beatrice i ett våldsamt angrepp där den uråldriga artefakten som kallades Solkronan stals.
+Under en bankett på hus Sarissos egendom dödades både Adric och Beatrice i ett våldsamt angrepp där den uråldriga artefakten som kallades Solkronan stals.
 
 Roland överlevde attacken och blev den ende kvarvarande ledaren för ordens expedition.
 

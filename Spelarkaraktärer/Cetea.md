@@ -15,7 +15,7 @@ tags:
 
 | Stat | Värde |
 | --- | --- |
-| Level | 1 |
+| Level | 2 |
 | Alignment | Chaos |
 | Doom die | 1d6 |
 | DMG | 1d6 |
