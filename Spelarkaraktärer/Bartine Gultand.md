@@ -15,7 +15,7 @@ tags:
 
 | Stat | Värde |
 | --- | --- |
-| Level | 1 |
+| Level | 2 |
 | Alignment | Chaos |
 | Doom die | 1d6 |
 | DMG | 1d6 |
@@ -54,3 +54,8 @@ en lång vila.
 ## Utrustning
 
 Maul, Hunting Knife, 3 doser läkedryck.
+
+## Relationer
+
+**Trimus.** Gammal ungdomsvän i Hermeskopeia. Fick Barts kappa och en kyss
+efter stölden av [[Solkronan]].

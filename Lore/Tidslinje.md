@@ -22,6 +22,8 @@ Dimman över Morbejara.
 
 ### År 14
 
+Stölden av [[Solkronan]].
+
 Öppna strider mellan St. Bartholomeus-orden och Hus Sarissos.
 
 Kannibalistisk orgie på Kyros-ordens tempeltrappor. Kammarrådet fördömer [[Organisationer/Morbejara/Kyros-orden|Kyros-orden]], kaos sprider sig.
