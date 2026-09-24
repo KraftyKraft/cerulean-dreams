@@ -11,7 +11,8 @@ Linux and macOS normally provide the required tools directly.
 ## Files
 
 - `format-wikilinks.sh` — main entry point and Git/file orchestration.
-- `format-wikilinks.awk` — Markdown text transformation and wikilink resolution.
+- `format-wikilinks.awk` — Markdown text transformation, tag normalization,
+  and wikilink resolution.
 - `format-wikilinks.cmd` — Windows convenience wrapper for manually running
   the formatter from Command Prompt or PowerShell.
 
@@ -217,11 +218,47 @@ No separator is inserted before punctuation such as:
 - _ , . '
 ```
 
+## Tag normalization
+Tags in YAML frontmatter are normalized automatically when Markdown files are processed.
+The formatter handles block-style `tags:` lists:
+```yaml
+tags:
+    - Organisation
+    - Det stora Templet
+    - de_förbjudna kulterna
+```
+Each tag is converted to lowercase kebab-case:
+```yaml
+tags:
+    - organisation
+    - stora-templet
+    - förbjudna-kulterna
+```
+Normalization performs the following steps:
+Converts the tag to lowercase.
+Removes one of the Swedish leading articles `den`, `det`, `de`, `en`, or
+`ett` when it occurs as the first complete word.
+Converts whitespace, underscores, punctuation, and other separators between
+words to a single hyphen.
+Removes leading and trailing separators.
+For example:
+```text
+Organisation             -> organisation
+Det stora Templet        -> stora-templet
+den-gamla-staden         -> gamla-staden
+de_förbjudna kulterna    -> förbjudna-kulterna
+En gammal stad           -> gammal-stad
+Ett Mycket Stort Hus     -> mycket-stort-hus
+```
+Swedish characters such as `å`, `ä`, and `ö` are preserved.
+Only tag values are normalized. Other YAML frontmatter fields, such as
+`title:`, are left unchanged.
+
 ## Content ignored by the formatter
 
 The formatter does not modify:
 
-- YAML frontmatter
+- YAML frontmatter other than block-style `tags:` values
 - fenced code blocks
 - inline code
 - `![[embeds]]`
