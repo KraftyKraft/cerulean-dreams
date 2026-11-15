@@ -32,6 +32,8 @@ Tjurens dödskramper. Ismene Kadmeia kidnappas.
 
 Till den starkaste. Maten sinar, och öppna strider äger rum på gatorna. En matutdelning sosm Thermex-kulten och hus Kadmeia anordnar leder till en stadsomfattande kravall. Knossos-kulten bränner ner Thermex' tempel.
 
+Hus Kadmeia förråder Sankt Bartholomeusorden och Hus Kataphraktos. Citadellet Kadmeia stormas och Nikandros grips.
+
 ### År 15
 
 Profeten i Gamlebrygga. Hus Ruma Trabiris stjärna seglar upp på himlen.

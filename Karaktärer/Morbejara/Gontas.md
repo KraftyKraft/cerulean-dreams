@@ -17,7 +17,7 @@ Saklig, lugn och rättvis. Gontas gör jobbet ordentligt, men inte mer än det k
 
 Vakt i **[[Organisationer/Morbejara/Kadmeia|Hus Kadmeias]]** tjänst sedan han var pojke. De senaste åren har han mest skött administration och tränat nya vakter. När kaoset sköljde över staden under Eran av Stilla Vatten tvingades han ut på gatorna igen, och ledde upploppskontroll i veckor.
 
-Nu kallar han samman ett gammalt garde: veteraner och folk med makt och tyngd i staden, för en sista ansträngning att få ordning på Morbejara igen.
+Nu kallar han samman ett gammalt garde: veteraner och folk med makt och tyngd i staden, för en sista ansträngning att få ordning på Morbejara igen. Gardet tog skydd hos Hus Khazan och stormade citadellet Kadmeia, där Gontas sårades.
 
 ## Plats
 

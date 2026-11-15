@@ -26,6 +26,8 @@ tags:
 
 Civilised. Växte upp på gatan innan han värvades som vakt i Hus Kadmeia. Runt 20 år, en av de yngre i skvadronen.
 
+Efter kammaren under kasernen lämnade han stadsvakten och gick i Sankt Bartholomeusordens tjänst.
+
 ## Utseende & personlighet
 
 Fanatisk syn på vaktyrket, tar plikten på stort allvar.

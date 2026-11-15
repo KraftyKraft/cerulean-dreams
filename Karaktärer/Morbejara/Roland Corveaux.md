@@ -32,6 +32,8 @@ Under en bankett på hus Sarissos egendom dödades både Adric och Beatrice i et
 
 Roland överlevde attacken och blev den ende kvarvarande ledaren för ordens expedition.
 
+Bitter sedan Hus Kadmeia förrådde orden. Belägrade citadellet Kadmeia och var med när det stormades.
+
 ## Plats
 
 Sankt Bartholomeus Heliga Ordens befästa läger i **[[Platser/Morbejara/Lapithos|Lapithos]]**.

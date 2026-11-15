@@ -16,6 +16,8 @@ hylla ljuset och bekämpa mörkret.
 
 Kort efter att ha upprättat en diplomatisk förläggning i Morbejara drabbades delegationen av ett svårt bakslag då två av Ordens tre ledare dödades under en bankett vid handelshuset **[[Organisationer/Morbejara/Sarissos|Sarissos]]** residens. Samtidigt spreds rykten i staden om att St Bartholomeus tjänare inte var de rättfärdiga beskyddare de utgav sig för att vara, utan utländska ränksmidare med egna ambitioner.
 
+År 14 förrådde Hus Kadmeias trupper orden vid förhandlingar om en inkvisition, och ett femtiotal av ordens män dödades. Orden belägrade sedan citadellet Kadmeia och var med när det stormades.
+
 St Bartholomeus Heliga Orden söker alla tillfällen att möta kaotiska krafter i rättfärdig strid. I Morbejara vill de även stärka sin legitimitet, sprida sin tro samt utöka Auronas politiska och ekonomiska inflytande i staden.
 
 ## Kännetecken

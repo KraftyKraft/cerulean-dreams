@@ -6,7 +6,7 @@ tags:
 
 ## Kännetecken
 
-Hon är den enda dottern i ett av Morbejaras mäktigaste handelshus, och sin far **Nikandros Kadmeias** ögonsten. Hon är väl medveten om sin särställning och agerar därefter. Hon är knappt ur tonåren, men bär sig som någon betydligt äldre.
+Hon är den enda dottern i ett av Morbejaras mäktigaste handelshus, och sin far **[[Karaktärer/Morbejara/Nikandros Kadmeia|Nikandros Kadmeias]]** ögonsten. Hon är väl medveten om sin särställning och agerar därefter. Hon är knappt ur tonåren, men bär sig som någon betydligt äldre.
 Hon har aldrig varit naiv, och väl förstått sin viktiga roll i sitt hus och i staden. Hon har varit generös mot sina vänner, och hård mot sina motståndare. Trots sina unga år, var det ingen som kallade henne för vek.
 
 Efter att hon blev kidnappad och torterad av Kyros-kultister har hårdheten i henne fått mer utrymme. Hon visar numera färre tecken på medkänsla och empati, och verkar inte längre vara så bekymmrad över människors lidande.
