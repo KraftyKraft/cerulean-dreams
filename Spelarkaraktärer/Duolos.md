@@ -14,12 +14,12 @@ tags:
 
 | Attribut | Värde |
 | --- | --- |
-| Str | TBD |
-| Dex | TBD |
-| Con | TBD |
-| Int | TBD |
-| Wis | TBD |
-| Cha | TBD |
+| Str | 17 |
+| Dex | 10 |
+| Con | 13 |
+| Int | 14 |
+| Wis | 10 |
+| Cha | 10 |
 
 | Stat | Värde |
 | --- | --- |
@@ -28,7 +28,7 @@ tags:
 | Doom die | 1d6 |
 | DMG | 1d10 (Bloodlust) |
 | Unarmed | 1d6 |
-| HP | TBD |
+| HP | 17 |
 
 ## Origin och historia
 
@@ -64,13 +64,13 @@ Forbidden knowledge, Vicious, Raider.
 
 **Battle hardened** (Law). Kritisk träff på omodifierad 1–3.
 
-En gåva från vardera makten.
+En gåva från vardera makten. Han har spelat på båda sidor, och är lika illa ansedd av båda.
 
 ## Finished sagas
 
-**Slaktaren i Valdmark.** En urgisk räd från norr, olik de andra: ett litet, mörkt krigarband, missbildade krigare som inte kände smärta, och många bortförda kvinnor. Valdmarks småherrar ropade efter hjälp och Duolos svarade. Med valdmarkska skogsmän upptäckte han det onaturliga: kvinnorna bar fram på några nätter och födde kullar som växte till en mans storlek på några nätter till. En kaosherre födde upp en bastardarmé. Duolos och småherrarna krossade krigarbandet, men milisen vägrade gå nära monstren, så Duolos gjorde slut på allihop själv. Kaosherren straffade honom genom att stjäla år av hans liv. Han fick mer guld än avtalat, med förståelsen att han inte skulle komma tillbaka. Se [[Lore/Valdmark|Valdmark]].
+**Slaktaren i Valdmark.** En urgisk räd från norr, olik de andra: ett litet, mörkt krigarband, missbildade krigare som inte kände smärta, och många bortförda kvinnor. Valdmarks småherrar ropade efter hjälp och Duolos svarade. Med valdmarkska skogsmän upptäckte han det onaturliga: kvinnorna bar fram på några nätter och födde kullar som växte till en mans storlek på några nätter till. En kaosherre födde upp en bastardarmé. Duolos och småherrarna krossade krigarbandet, men milisen vägrade gå nära monstren, så Duolos gjorde slut på allihop själv. Kaosherren straffade honom genom att stjäla år av hans liv. Han fick mer guld än avtalat, och det var underförstått att han inte skulle komma tillbaka. Se [[Lore/Valdmark|Valdmark]].
 
-**Slaget vid Gråfjärden.** Efter att ha lämnat Morbejara tjänade han en tid hertig Fritzer, och stred på hans sida i slaget vid Gråfjärden.
+**Slaget vid Gråfjärden.** Efter att ha lämnat Morbejara tjänade han en tid hertig Fritzer, och stred på dennes sida i slaget vid Gråfjärden.
 
 **Den brutale domaren.**
 
