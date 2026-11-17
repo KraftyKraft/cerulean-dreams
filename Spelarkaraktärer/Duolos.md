@@ -8,6 +8,8 @@ tags:
 
 ![[duolos-harbor-morbejara.png]]
 
+![[sad-swordsman.webp]]
+
 **Duolos, av Handen De Många.** Kallas Slaktaren i Valdmark.
 
 | Attribut | Värde |
