@@ -45,6 +45,7 @@ TBD.
 
 ## Relationer
 
+- **Jalam**: hans väpnare, en chalidisk pojke.
 - **[[Spelarkaraktärer/Idris Khazan|Idris Khazan]]**: yngre bror till husets patriark. De känner varandra väl.
 - **[[Karaktärer/Morbejara/Roland Corveaux|Roland Corveaux]]**: marskalk för [[Organisationer/Morbejara/Bartholomeus|Sankt Bartholomeusorden]] i staden, landsman från Aurona.
 - **[[Karaktärer/Morbejara/Gontas|Gontas]]**: kallade honom till det nya gardet.

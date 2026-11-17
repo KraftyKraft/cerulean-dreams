@@ -20,8 +20,8 @@ Har lett Hus Kadmeia med järnhand, och därmed merparten av Morbejaras vaktstyr
 
 Citadellet stormades av ett nytt garde som **[[Karaktärer/Morbejara/Gontas|Gontas]]** samlat, med stöd av **[[Organisationer/Morbejara/Khazan|Hus Khazan]]**, orden, alkemister och sjöfolk. Nikandros personliga husvakter föll eller trycktes uppåt, och på tornets topp stod han till sist ensam med två vakter. Han förnekade bistert att han låg bakom kaoset i staden, eller att han haft något med dotterns förehavanden att göra. Varför han inte vänt sig till staden: "Jag var redan skyldig i allas ögon, så jag kunde ingenting göra."
 
-**[[Spelarkaraktärer/Albrech Cornemont|Albrech Cornemont]]** förklarade hans vakt över staden formellt avslutad. **[[Spelarkaraktärer/Idris Khazan|Idris Khazan]]** slog honom medvetslös med en besvärjelse. Han greps levande. Vem som ska hålla honom, handelskammarens råd, Hus Khazan eller orden, är inte avgjort.
+**[[Spelarkaraktärer/Albrech Cornemont|Albrech Cornemont]]** förklarade hans vakt över staden formellt avslutad. **[[Spelarkaraktärer/Idris Khazan|Idris Khazan]]** slog honom medvetslös med en besvärjelse. Han greps levande och fördes till ordens inkvisition.
 
 ## Plats
 
-Fånge. Var han hålls är ännu inte bestämt.
+Fånge hos Sankt Bartholomeusorden i [[Platser/Morbejara/Lapithos|Lapithos]].

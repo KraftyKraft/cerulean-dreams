@@ -8,7 +8,7 @@ tags:
 
 ## Bakgrund
 
-Ett av Morbejaras viktiga handelshus.
+Ett av Morbejaras viktiga handelshus. Rival till **[[Organisationer/Morbejara/Kataphraktos|Hus Kataphraktos]]**.
 
 ## Karaktärer
 

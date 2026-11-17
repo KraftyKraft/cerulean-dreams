@@ -29,6 +29,10 @@ egna politiska konflikter. **[[Lore/Det Ceruliska innerhavet/Ashash-Haroom|Ashas
 härskare vars rike sällskapet besökte. Hans ättlingar lever fortfarande, se
 **[[Platser/De Svarta Pyramidernas land/Undervattensriket|Undervattensriket]]**.
 
+## Språk
+
+Runt havet talas **ceruliska**, ett slags lingua franca mellan hamnarna.
+
 ## Havets karaktär
 
 Havet ger och tar. Det är likgiltigt men inte passivt.

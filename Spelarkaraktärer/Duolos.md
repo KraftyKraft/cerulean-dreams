@@ -68,6 +68,8 @@ En gåva från vardera makten.
 
 **Slaktaren i Valdmark.** En urgisk räd från norr, olik de andra: ett litet, mörkt krigarband, missbildade krigare som inte kände smärta, och många bortförda kvinnor. Valdmarks småherrar ropade efter hjälp och Duolos svarade. Med valdmarkska skogsmän upptäckte han det onaturliga: kvinnorna bar fram på några nätter och födde kullar som växte till en mans storlek på några nätter till. En kaosherre födde upp en bastardarmé. Duolos och småherrarna krossade krigarbandet, men milisen vägrade gå nära monstren, så Duolos gjorde slut på allihop själv. Kaosherren straffade honom genom att stjäla år av hans liv. Han fick mer guld än avtalat, med förståelsen att han inte skulle komma tillbaka. Se [[Lore/Valdmark|Valdmark]].
 
+**Slaget vid Gråfjärden.** Efter att ha lämnat Morbejara tjänade han en tid hertig Fritzer, och stred på hans sida i slaget vid Gråfjärden.
+
 **Den brutale domaren.**
 
 ## Utrustning

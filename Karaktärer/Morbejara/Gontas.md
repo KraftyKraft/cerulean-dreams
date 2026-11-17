@@ -7,7 +7,7 @@ tags:
 
 ## Kännetecken
 
-Medelålders. Krulligt, grånande hår över ett högt hårfäste, stor näsa och buskiga ögonbryn. Han är lugn på ett sätt som syns på håll, också när allt omkring honom brinner.
+42 år. Krulligt, grånande hår över ett högt hårfäste, stor näsa och buskiga ögonbryn. Han är lugn på ett sätt som syns på håll, också när allt omkring honom brinner.
 
 ## Drivkraft
 
