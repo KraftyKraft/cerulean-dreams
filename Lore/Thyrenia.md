@@ -4,7 +4,7 @@ tags:
   - nation
 ---
 
-Den handelsunion av stadsstater som **[[Platser/Morbejara|Morbejara]]** tillhör. Ett
+Den handelsunion av stadsstater som **[[Platser/Morbejara]]** tillhör. Ett
 mäktigt handelsimperium i nordöstra delen av
 **[[Lore/Det Ceruliska innerhavet|Det Ceruliska innerhavet]]**.
 
